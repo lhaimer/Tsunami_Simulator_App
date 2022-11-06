@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-47:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\d5d184b9eb6c2b29fdb89f2058ae7198\\transformed\\appcompat-1.5.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

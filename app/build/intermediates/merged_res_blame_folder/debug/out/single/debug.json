@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/xml_account_settings.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/xml/account_settings.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/layout_fragment_account_settings.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/layout/fragment_account_settings.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/layout_fragment_settings.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/menu_chat_list_menu.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/menu/chat_list_menu.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/layout_fragment_map.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/xml_backup_rules.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/xml_settings.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/xml/settings.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/navigation_nav_graph.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-pngs-44:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/xml_data_extraction_rules.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/layout_activity_main.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-49:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-51:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.vectordrawable:vectordrawable:1.1.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/7eb7bea9192c7eb45d9aff3d45b3e648/transformed/vectordrawable-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/7eb7bea9192c7eb45d9aff3d45b3e648/transformed/vectordrawable-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/7eb7bea9192c7eb45d9aff3d45b3e648/transformed/vectordrawable-1.1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable/1.1.0/1e0694477eed874c50c54b547cc3e5a62a57a62b/vectordrawable-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
