@@ -14,12 +14,27 @@ class SettingsFragment : PreferenceFragmentCompat() {
     override fun onCreatePreferences(savedInstanceState: Bundle?, rootKey: String?) {
         setPreferencesFromResource(R.xml.settings, rootKey)
 
+/*        //get the tsunami parameters locally
+        //val warnDelay = findPreference<Preference>(getString(R.string.key_values_warning_delay))
+       // Log.e("the tsunami parameters", "warning delay time is : $warnDelay ")
+        val mobilityType = findPreference<Preference>(getString(R.string.key_mobility_type))
+        Log.e("the tsunami parameters", "warning delay time is : $mobilityType")
+        val tsunamiReference = findPreference<Preference>(getString(R.string.key_tsunami_reference))
+        Log.e("the tsunami parameters", "warning delay time is : $tsunamiReference")
+        val tsunamiWavePower = findPreference<Preference>(getString(R.string.key_tsunami_wave_power))
+        Log.e("the tsunami parameters", "warning delay time is : $tsunamiWavePower")*/
+
+        // Read Preference values in a Fragment
+        // Step 1: Get reference to the SharedPreferences (XML File)
+
+
         val dataStore = DataStore()
+
         // Enable PreferenceDataStore for entire hierarchy and disables the SharedPreferences
 //        preferenceManager.preferenceDataStore = dataStore
 
         val accSettingsPref = findPreference<Preference>(getString(R.string.key_account_settings))
-
+         //we can't access to the value of accSettingsPref out of the current fragment
         accSettingsPref?.setOnPreferenceClickListener {
 
             val navHostFragment =
@@ -30,32 +45,7 @@ class SettingsFragment : PreferenceFragmentCompat() {
             true
         }
 
-        // Read Preference values in a Fragment
-        // Step 1: Get reference to the SharedPreferences (XML File)
-        val sharedPreferences = PreferenceManager.getDefaultSharedPreferences(requireContext())
-        // Step 2: Get the 'value' using the 'key'
-        val autoReplyTime = sharedPreferences.getString(getString(R.string.key_auto_reply_time), "")
-        Log.i("SettingsFragment", "Auto Reply Time: $autoReplyTime")
 
-        val autoDownload =
-            sharedPreferences.getBoolean(getString(R.string.key_auto_download), false)
-        Log.i("SettingsFragment", "Auto Download: $autoDownload")
-
-        val statusPref = findPreference<EditTextPreference>(getString(R.string.key_status))
-        statusPref?.setOnPreferenceChangeListener { preference, newValue ->
-
-            val newStatus = newValue as String
-            if (newStatus.contains("bad")) {
-                Toast.makeText(
-                    context, "Inappropriate Status. Please maintain community guidelines.",
-                    Toast.LENGTH_SHORT
-                ).show()
-
-                false   // false: reject the new value.
-            } else {
-                true     // true: accept the new value.
-            }
-        }
 
         val notificationPref =
             findPreference<SwitchPreferenceCompat>(getString(R.string.key_new_msg_notif))

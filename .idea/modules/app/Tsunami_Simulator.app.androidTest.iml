@@ -62,8 +62,8 @@
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/74153e57ec36c29060f3e77730036818/transformed/vectordrawable-1.1.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/7f8e621ff77171bd60b26473ea3ca92a/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/25bb49306bb22eff3fc56f197516f4f7/transformed/loader-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/9c9d886bd4f508a24bb4fa7a83be8ba8/transformed/recyclerview-1.1.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/381007183c666f4ab317de0e204889a0/transformed/slidingpanelayout-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/9c9d886bd4f508a24bb4fa7a83be8ba8/transformed/recyclerview-1.1.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3b2e7c2a2e6f3be967aeadc41589712d/transformed/viewpager-1.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/6ebc9a7502239606d8729fed832b84ab/transformed/customview-1.1.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/84eedf65068f5e0f6bb2156d73b53822/transformed/core-1.9.0-api.jar</arg>
@@ -214,6 +214,14 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.preference:preference:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-ktx:1.5.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-ktx:1.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-ktx:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-location:17.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-base:17.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-basement:17.0.0@aar" level="project" />
@@ -221,21 +229,13 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-places-placereport:17.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment:2.5.3@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-ktx:1.5.4@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-ktx:1.5.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.5.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-ktx:1.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common:2.5.3@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.preference:preference-ktx:1.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.preference:preference:1.2.0@aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="Tsunami_Simulator.app.main" />
 </module>

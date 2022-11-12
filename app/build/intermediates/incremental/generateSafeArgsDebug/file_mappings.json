@@ -1,1 +1,1 @@
-[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.climateteam9.tsunamisimulator.MapFragmentDirections","com.climateteam9.tsunamisimulator.SettingsFragmentDirections"]}]
+[{"navFile":"src\\main\\res\\navigation\\nav_graph.xml","javaFiles":["com.climateteam9.tsunamisimulator.MapFragmentDirections","com.climateteam9.tsunamisimulator.SettingsFragmentDirections","com.climateteam9.tsunamisimulator.AccountSettingsFragmentDirections"]}]

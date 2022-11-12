@@ -18,6 +18,8 @@ import androidx.navigation.fragment.NavHostFragment
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
+import androidx.preference.PreferenceManager
+import com.climateteam9.tsunamisimulator.Utils.TsunamiScenarioStatus
 import com.google.android.gms.location.*
 import java.util.*
 
@@ -29,12 +31,25 @@ class MainActivity : AppCompatActivity() {
     val PERMISSION_ID = 1010
     private lateinit var navController: NavController
     private lateinit var appBarConfiguration: AppBarConfiguration
+//    val getpos : Button = findViewById(R.id.getpos)
+  //  val textView : TextView = findViewById(R.id.textView)
 
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+/*        getpos.setOnClickListener {
+            Log.d("Debug:",CheckPermission().toString())
+            Log.d("Debug:",isLocationEnabled().toString())
+            RequestPermission()
+
+            getLastLocation()
+
+        }*/
+
+
 
         // Get NavHost and NavController
         val navHostFrag = supportFragmentManager.findFragmentById(R.id.nav_host_frag) as NavHostFragment
@@ -46,8 +61,15 @@ class MainActivity : AppCompatActivity() {
         // Link ActionBar with NavController
         setupActionBarWithNavController(navController, appBarConfiguration)
 
-        val getpos : Button = findViewById(R.id.getpos)
-        val textView : TextView = findViewById(R.id.textView)
+        //  val getSimulationResulat : Button = findViewById(R.id.startSimulation)
+         //       val safetyTV : TextView = findViewById(R.id.safetyTV)
+
+          //      getSimulationResulat.setOnClickListener {
+           //         safetyTV.text=tsunamiSimulator()
+
+            //    }
+
+
 
 
 
@@ -55,13 +77,7 @@ class MainActivity : AppCompatActivity() {
 
 
 
-            getpos.setOnClickListener {
-            Log.d("Debug:",CheckPermission().toString())
-            Log.d("Debug:",isLocationEnabled().toString())
-            RequestPermission()
 
-            getLastLocation()
-        }
 
     }
     override fun onSupportNavigateUp(): Boolean {
@@ -94,9 +110,9 @@ class MainActivity : AppCompatActivity() {
                     if(location == null){
                         NewLocationData()
                     }else{
-                        val textView : TextView = findViewById(R.id.textView)
+                        //val textView : TextView = findViewById(R.id.textView)
                         Log.d("Debug:" ,"Your Location:"+ location.longitude)
-                        textView.text = "You Current Location is : \n Long: "+ "\n" + location.longitude +  "\n" +" , Lat: \n " + location.latitude + "\n"+ "ALt : \n" + location.altitude +"\n"+getCityName(location.latitude,location.longitude)
+                        //textView.text = "You Current Location is : \n Long: "+ "\n" + location.longitude +  "\n" +" , Lat: \n " + location.latitude + "\n"+ "ALt : \n" + location.altitude +"\n"+getCityName(location.latitude,location.longitude)
                     }
                 }
             }else{
@@ -142,8 +158,8 @@ class MainActivity : AppCompatActivity() {
         override fun onLocationResult(locationResult: LocationResult) {
             var lastLocation: Location = locationResult.lastLocation
             Log.d("Debug:","your last last location: "+ lastLocation.longitude.toString())
-            val textView : TextView = findViewById(R.id.textView)
-            textView.text = "You Last Location is : Long: "+ lastLocation.longitude + " , Lat: " + lastLocation.latitude + "\n" + getCityName(lastLocation.latitude,lastLocation.longitude)
+            //val textView : TextView = findViewById(R.id.textView)
+            //textView.text = "You Last Location is : Long: "+ lastLocation.longitude + " , Lat: " + lastLocation.latitude + "\n" + getCityName(lastLocation.latitude,lastLocation.longitude)
         }
     }
 
@@ -205,5 +221,46 @@ class MainActivity : AppCompatActivity() {
         Log.d("Debug:","Your City: " + cityName + " ; your Country " + countryName)
         return cityName
     }
+    private fun tsunamiSimulator():String {
+
+        var delayTime:Int
+        var userSpeed:Int
+        var userLocation:Int = 0
+        var type: String
+        var initialDistance:Int
+        var power:Float
+
+
+        // Read Preference values in an activity
+        // Step 1: Get reference to the SharedPreferences (XML File)
+        val sharedPreferences = PreferenceManager.getDefaultSharedPreferences(this)
+        // Step 2: Get the 'value' using the 'key'
+        delayTime = (sharedPreferences.getString(getString(R.string.key_values_warning_delay), "15"))!!.toInt()
+
+        Log.e("SettingsFragment", "Auto Reply Time: $delayTime")
+        userSpeed = (sharedPreferences.getString(getString(R.string.key_mobility_type), "30000"))!!.toInt()
+        Log.e("the tsunami parameters", "The mobility type is : $userSpeed")
+        type = sharedPreferences.getString(getString(R.string.key_tsunami_reference), "Japan")!!
+        Log.e("the tsunami parameters", "The tsunami reference : $type")
+        power= (sharedPreferences.getString(getString(R.string.key_tsunami_wave_power), "1"))!!.toFloat()
+        Log.e("the tsunami parameters", "The tsunami wave power: $power")
+        initialDistance= (sharedPreferences.getString(getString(R.string.key_wave_distance), "1000"))!!.toInt()
+        Log.e("the tsunami parameters", "The tsunami wave distance is : $initialDistance")
+
+        val message = TsunamiScenarioStatus(
+            delayTime,
+            userSpeed,
+            userLocation,
+            type,
+            initialDistance ,
+            power)
+            .UserSafetyStatus()
+        return message
+
+
+
+
+    }
+
 
 }

@@ -22,14 +22,14 @@
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e7182f15488256d20cabd15d6f2d9abd/transformed/preference-1.2.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ed919929672dc0e8ecea9bfc7a0f0b69/transformed/appcompat-1.5.1-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b06f9fdac335547c7f190d3ca59f7c84/transformed/jetified-viewpager2-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/83fcd88bf3e8d99f5c5a17f125eda6f3/transformed/navigation-fragment-ktx-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ae27b67364326ee00128a93e31da2911/transformed/navigation-fragment-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/4051f36afa17834252b53c0c3c0dc0ff/transformed/jetified-fragment-ktx-1.5.4-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ea08dd1c5ed92f12e9a4f57c4a7e0953/transformed/jetified-play-services-location-17.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/11b0d9b90faf99d76b72036d9f763464/transformed/jetified-play-services-base-17.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e9a40c3c91689137d64378c1f9448cbc/transformed/jetified-play-services-places-placereport-17.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/57ce5b851328c69a604759995e22383a/transformed/jetified-play-services-tasks-17.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b77033f9b9c7117fb276f307e4279cf0/transformed/jetified-play-services-basement-17.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/83fcd88bf3e8d99f5c5a17f125eda6f3/transformed/navigation-fragment-ktx-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ae27b67364326ee00128a93e31da2911/transformed/navigation-fragment-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/4051f36afa17834252b53c0c3c0dc0ff/transformed/jetified-fragment-ktx-1.5.4-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/a4d3c4f0c8bd3f84fee8b5f19599efce/transformed/fragment-1.5.4-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/c67b066de390b818831c74ee7c0924b2/transformed/navigation-runtime-ktx-2.5.3-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/78b1c2c9ac32bbef5f6889c1b2cbc69e/transformed/navigation-runtime-2.5.3-api.jar</arg>
@@ -57,8 +57,8 @@
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/0d4ece34c53a3c1e4c6fea8ef38c25c1/transformed/transition-1.4.1-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/5e27cd9c60d30e592d9b975a3a51be59/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/74153e57ec36c29060f3e77730036818/transformed/vectordrawable-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3b2e7c2a2e6f3be967aeadc41589712d/transformed/viewpager-1.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/381007183c666f4ab317de0e204889a0/transformed/slidingpanelayout-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3b2e7c2a2e6f3be967aeadc41589712d/transformed/viewpager-1.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/6ebc9a7502239606d8729fed832b84ab/transformed/customview-1.1.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/7f8e621ff77171bd60b26473ea3ca92a/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
                 <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/25bb49306bb22eff3fc56f197516f4f7/transformed/loader-1.0.0-api.jar</arg>
@@ -186,6 +186,14 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.4.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.preference:preference:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-ktx:1.5.4@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-ktx:1.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-ktx:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-location:17.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-base:17.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-basement:17.0.0@aar" level="project" />
@@ -193,21 +201,13 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-places-placereport:17.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment:2.5.3@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-ktx:1.5.4@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-ktx:1.5.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.5.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-ktx:1.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common:2.5.3@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.preference:preference-ktx:1.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.preference:preference:1.2.0@aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="Tsunami_Simulator.app.main" />
 </module>

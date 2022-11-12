@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/Documents/5afaya_rsc/TSApp/Tsunami Simulator App/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/user/Documents/5afaya_rsc/TSApp/Tsunami Simulator App/app/src/main/res/layout/fragment_account_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/Documents/5afaya_rsc/TSApp/Tsunami Simulator App/app/src/main/res/layout/fragment_map.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/Documents/5afaya_rsc/TSApp/Tsunami Simulator App/app/src/main/res/layout/fragment_settings.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/user/Documents/5afaya_rsc/TSApp/Tsunami Simulator App/app/src/main/res/layout/fragment_simulator_settings.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/user/Documents/5afaya_rsc/TSApp/Tsunami Simulator App/app/src/main/res/xml/account_settings.xml" value="0.1574074074074074" />
+        <entry key="..\:/Users/user/Documents/5afaya_rsc/TSApp/Tsunami Simulator App/app/src/main/res/xml/settings.xml" value="0.1" />
+        <entry key="..\:/Users/user/Documents/5afaya_rsc/TSApp/Tsunami Simulator App/app/src/main/res/xml/simulator_settings.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

@@ -6,64 +6,76 @@
         android:title="@string/title_general"
         app:iconSpaceReserved="false">
 
-        <EditTextPreference
-            android:defaultValue="@string/defValue_status"
-            android:key="@string/key_status"
-            android:title="@string/title_status"
-            app:dialogTitle="@string/title_dialog_status"
-            app:iconSpaceReserved="false"
-            app:useSimpleSummaryProvider="true" />
-
-        <SwitchPreferenceCompat
-            android:defaultValue="false"
-            android:key="@string/key_auto_reply"
-            android:summary="@string/summary_auto_reply"
-            android:title="@string/title_auto_reply"
-            app:iconSpaceReserved="false" />
-
+        <!-- Warning delay time-->
         <ListPreference
-            android:dependency="@string/key_auto_reply"
             android:dialogTitle="@string/title_dialog_reply_time"
             android:entries="@array/entries_auto_reply_time"
             android:entryValues="@array/values_auto_reply_time"
-            android:key="@string/key_auto_reply_time"
+            android:defaultValue="5"
+            android:key="@string/key_values_warning_delay"
             android:title="@string/title_auto_reply_time"
             app:iconSpaceReserved="false"
             app:useSimpleSummaryProvider="true" />
-
+        <!-- Mobility type-->
         <ListPreference
-            android:dependency="@string/key_auto_reply"
-            android:dialogTitle="@string/title_dialog_auto_reply_msg"
-            android:entries="@array/pref_auto_reply_messages"
-            android:entryValues="@array/pref_auto_reply_messages"
-            android:key="@string/key_auto_reply_msg"
-            android:title="@string/title_auto_reply_msg"
+            android:dialogTitle="@string/title_dialog_mobility_type"
+            android:entries="@array/entries_mobility_type"
+            android:entryValues="@array/values_mobility_type"
+            android:key="@string/key_mobility_type"
+            android:title="@string/title_mobility_type"
+            android:defaultValue="30000"
             app:iconSpaceReserved="false"
             app:useSimpleSummaryProvider="true" />
 
     </PreferenceCategory>
 
     <PreferenceCategory
+        android:title="@string/title_tsunami_reference"
+        app:iconSpaceReserved="false">
+        <ListPreference
+            android:dialogTitle="@string/title_dialog_tsunami_reference"
+            android:entries="@array/pref_tsunami_reference"
+            android:entryValues="@array/pref_tsunami_reference"
+            android:defaultValue="Japan"
+            android:key="@string/key_tsunami_reference"
+            android:title="@string/title_tsunami_reference"
+            app:iconSpaceReserved="false"
+            app:useSimpleSummaryProvider="true" />
+        <!-- tsunami wave power-->
+        <ListPreference
+            android:dialogTitle="@string/title_dialog_wave_power"
+            android:entries="@array/entries_tsunami_wave_power"
+            android:entryValues="@array/values_v"
+            android:defaultValue="1"
+            android:key="@string/key_tsunami_wave_power"
+            android:title="@string/title_dialog_wave_power"
+            app:iconSpaceReserved="false"
+            app:useSimpleSummaryProvider="true" />
+
+        <!-- tsunami wave distance-->
+        <ListPreference
+            android:dialogTitle="@string/title_wave_distance"
+            android:entries="@array/entries_wave_distance"
+            android:entryValues="@array/values_wave_distance"
+            android:defaultValue="1000"
+            android:key="@string/key_wave_distance"
+            android:title="@string/title_dialog_wave_distance"
+            app:iconSpaceReserved="false"
+            app:useSimpleSummaryProvider="true" />
+    </PreferenceCategory>
+    <PreferenceCategory
         android:title="@string/title_app"
         app:iconSpaceReserved="false">
+        <SwitchPreferenceCompat
+            android:defaultValue="true"
+            android:key="@string/key_new_msg_notif"
+            android:title="@string/title_new_msg_notif"
+            app:iconSpaceReserved="false" />
 
         <Preference
             android:key="@string/key_account_settings"
             android:summary="@string/summary_acc_settings"
             android:title="@string/title_acc_settings"
-            app:iconSpaceReserved="false" />
-
-        <CheckBoxPreference
-            android:defaultValue="true"
-            android:key="@string/key_auto_download"
-            android:summary="@string/summary_auto_download"
-            android:title="@string/title_auto_download"
-            app:iconSpaceReserved="false" />
-
-        <SwitchPreferenceCompat
-            android:defaultValue="true"
-            android:key="@string/key_new_msg_notif"
-            android:title="@string/title_new_msg_notif"
             app:iconSpaceReserved="false" />
 
     </PreferenceCategory>
@@ -77,6 +89,15 @@
             android:summary="@string/summary_version"
             android:title="@string/title_version"
             app:iconSpaceReserved="false" />
+
+        <Preference
+            android:key="@string/key_tsunami_simulator"
+            android:title="@string/title_tsunami_simulator"
+            app:iconSpaceReserved="false" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="https://tsunami.gov.com" />
+        </Preference>
 
         <Preference
             android:key="@string/key_privacy_policy"
