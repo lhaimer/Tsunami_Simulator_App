@@ -1,7 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
-    //id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
+    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
 }
 
 android {
@@ -24,6 +24,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
+
+    //buildConfigField("String", "MAPS_API_KEY", MAPS_API_KEY)
+
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
@@ -61,11 +64,10 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1"
 }
 
-/*
 secrets {
     defaultPropertiesFileName 'local.defaults.properties'
     // To add your Maps API key to this project:
     // 1. Open the root project's local.properties file
     // 2. Add this line, where YOUR_API_KEY is your API key:
-    // MAPS_API_KEY=YOUR_API_KEY
-}*/
+    //MAPS_API_KEY=YOUR_API_KEY
+}

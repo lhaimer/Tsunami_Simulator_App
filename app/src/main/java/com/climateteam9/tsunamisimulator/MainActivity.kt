@@ -1,6 +1,7 @@
 package com.climateteam9.tsunamisimulator
 
 import android.Manifest
+import android.annotation.SuppressLint
 import android.content.DialogInterface
 import android.content.pm.PackageManager
 import android.location.Location
@@ -17,6 +18,7 @@ import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import com.climateteam9.tsunamisimulator.databinding.ActivityMainBinding
 import com.google.android.gms.location.FusedLocationProviderClient
+import com.google.android.gms.location.LocationServices
 import com.google.android.gms.maps.CameraUpdateFactory
 import com.google.android.gms.maps.GoogleMap
 import com.google.android.gms.maps.GoogleMap.InfoWindowAdapter
@@ -35,7 +37,8 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
     private var map: GoogleMap? = null
     private var cameraPosition: CameraPosition? = null
 
-    private var distance: Double = 0.0
+    // Distance between two points
+    //private var distance: Double = 0.0
 
     // Places API entry point
     private lateinit var placesClient: PlacesClient
@@ -49,7 +52,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
 
     // Current device location
     private var lastKnownLocation: Location? = null
-    private var nearestCoast: Location? = null
+    //private var nearestCoast: Location? = null
     private var likelyPlaceNames: Array<String?> = arrayOfNulls(0)
     private var likelyPlaceAddresses: Array<String?> = arrayOfNulls(0)
     private var likelyPlaceAttributions: Array<List<*>?> = arrayOfNulls(0)
@@ -70,8 +73,11 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
         setContentView(binding.root)
 
         // Places Client
-        //Places.initialize(applicationContext, BuildConfig.MAPS_API_KEY)
+        Places.initialize(applicationContext, BuildConfig.MAPS_API_KEY)
         placesClient = Places.createClient(this)
+
+        // Construct a FusedLocationProviderClient.
+        fusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(this)
 
         // Build map
         val mapFragment = supportFragmentManager.findFragmentById(R.id.map) as SupportMapFragment?
@@ -148,10 +154,9 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
 
     /**
      * */
-    private fun getNearestCoast() {
+    private fun getNearestCoast() {}
 
-    }
-
+    @SuppressLint("MissingPermission")
     private fun getDeviceLocation() {
         /*
          * Get the best and most recent location of the device, which may be null in rare
@@ -221,6 +226,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
      * Prompts the user to select the current place from a list of likely places, and shows the
      * current place on the map - provided the user has granted location permission.
      */
+    @SuppressLint("MissingPermission")
     private fun showCurrentPlace() {
         if (map == null) { return }
 
@@ -328,6 +334,7 @@ class MainActivity : AppCompatActivity(), OnMapReadyCallback {
     /**
      * Updates the map's UI settings based on whether the user has granted location permission.
      */
+    @SuppressLint("MissingPermission")
     private fun updateLocationUI() {
         if (map == null) { return }
 
