@@ -30,20 +30,7 @@
         android:id="@+id/fragmentAccSettings"
         android:name="com.climateteam9.tsunamisimulator.AccountSettingsFragment"
         android:label="Account"
-        tools:layout="@layout/fragment_account_settings">
-        <action
-            android:id="@+id/action_fragmentAccSettings_to_fra"
-            app:destination="@id/fra" />
-    </fragment>
-    <fragment
-        android:id="@+id/fra"
-        android:name="com.climateteam9.tsunamisimulator.AccountSettingsFragment"
-        android:label="Account"
-        tools:layout="@layout/fragment_account_settings" />
-    <fragment
-        android:id="@+id/simSettingsFragment"
-        android:name="com.climateteam9.tsunamisimulator.SimSettingsFragment"
-        android:label="SimSettingsFragment" />
+        tools:layout="@layout/fragment_account_settings"/>
 
 
 </navigation>
