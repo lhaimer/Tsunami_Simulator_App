@@ -2739,7 +2739,6 @@ id action_chatList_to_settings
 id action_container
 id action_context_bar
 id action_divider
-id action_fragmentAccSettings_to_fra
 id action_image
 id action_menu_divider
 id action_menu_presenter
@@ -2886,7 +2885,6 @@ id fixed
 id flip
 id floating
 id forever
-id fra
 id fragmentAccSettings
 id fragmentMap
 id fragmentSettings
@@ -3085,7 +3083,6 @@ id shortcut
 id showCustom
 id showHome
 id showTitle
-id simSettingsFragment
 id sin
 id skipCollapsed
 id skipped

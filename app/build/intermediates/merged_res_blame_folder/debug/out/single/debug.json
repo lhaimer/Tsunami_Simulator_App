@@ -1,114 +1,106 @@
 [
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/xml_root_preferences.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/xml/root_preferences.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\menu_chat_list_menu.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\menu\\chat_list_menu.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
         "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/layout_activity_main.xml.flat",
         "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\xml_root_preferences.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\xml\\root_preferences.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\layout_fragment_settings.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_settings.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\activity_main.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/layout_fragment_simulator_settings.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_simulator_settings.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/layout_fragment_account_settings.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_account_settings.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/layout_fragment_settings.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_settings.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\xml_settings.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\xml\\settings.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-pngs-0:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\xml_account_settings.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\xml\\account_settings.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\xml\\data_extraction_rules.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-pngs-0:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/layout_fragment_map.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_map.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\layout_fragment_map.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_map.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\layout_fragment_simulator_settings.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_simulator_settings.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/menu_chat_list_menu.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/menu/chat_list_menu.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\xml_simulator_settings.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\xml\\simulator_settings.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\layout_fragment_account_settings.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_account_settings.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/xml_account_settings.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/xml/account_settings.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/xml_settings.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/xml/settings.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\navigation\\nav_graph.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\xml\\backup_rules.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/navigation_nav_graph.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/navigation/nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.3.3\\com.climateteam9.tsunamisimulator.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
     }
 ]

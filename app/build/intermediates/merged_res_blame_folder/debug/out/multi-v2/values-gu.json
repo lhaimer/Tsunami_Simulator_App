@@ -4,41 +4,7 @@
             "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-3:/values-gu/values-gu.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\d544ede311a75e9fcd0b71f3f53e08ca\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-gu\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "205",
-                        "endOffsets": "452"
-                    },
-                    "to": {
-                        "startLines": "45",
-                        "startColumns": "4",
-                        "startOffsets": "4481",
-                        "endColumns": "205",
-                        "endOffsets": "4682"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\79af4ba845f7c1120a4e33c78b92f179\\transformed\\preference-1.2.0\\res\\values-gu\\values-gu.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "105,177,263,344,486,655,739",
-                        "endColumns": "71,85,80,141,168,83,81",
-                        "endOffsets": "172,258,339,481,650,734,816"
-                    },
-                    "to": {
-                        "startLines": "55,57,108,110,113,114,115",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "6006,6141,10244,10403,10727,10896,10980",
-                        "endColumns": "71,85,80,141,168,83,81",
-                        "endOffsets": "6073,6222,10320,10540,10891,10975,11057"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\ade68a9901d52a820cfb122f62c31ff0\\transformed\\navigation-ui-2.5.3\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\e856bb3f236817dd07cfe29396114cae\\transformed\\navigation-ui-2.5.3\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -55,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\77b8f77cc988f90b703fd7b8a95ceb7e\\transformed\\material-1.6.1\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\ede775c8141f5fe10c7518c20a5a380b\\transformed\\material-1.6.1\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,24 +40,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\d5d184b9eb6c2b29fdb89f2058ae7198\\transformed\\appcompat-1.5.1\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\7d779480eadbe81de0b15fdb57093e6b\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-gu\\values.xml",
                     "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,212,316,423,510,610,730,808,885,976,1069,1164,1258,1358,1451,1546,1640,1731,1822,1902,2008,2109,2206,2315,2415,2525,2685,2788",
-                        "endColumns": "106,103,106,86,99,119,77,76,90,92,94,93,99,92,94,93,90,90,79,105,100,96,108,99,109,159,102,80",
-                        "endOffsets": "207,311,418,505,605,725,803,880,971,1064,1159,1253,1353,1446,1541,1635,1726,1817,1897,2003,2104,2201,2310,2410,2520,2680,2783,2864"
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "205",
+                        "endOffsets": "452"
                     },
                     "to": {
-                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,111",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "273,380,484,591,678,778,898,976,1053,1144,1237,1332,1426,1526,1619,1714,1808,1899,1990,2070,2176,2277,2374,2483,2583,2693,2853,10545",
-                        "endColumns": "106,103,106,86,99,119,77,76,90,92,94,93,99,92,94,93,90,90,79,105,100,96,108,99,109,159,102,80",
-                        "endOffsets": "375,479,586,673,773,893,971,1048,1139,1232,1327,1421,1521,1614,1709,1803,1894,1985,2065,2171,2272,2369,2478,2578,2688,2848,2951,10621"
+                        "startLines": "45",
+                        "startColumns": "4",
+                        "startOffsets": "4481",
+                        "endColumns": "205",
+                        "endOffsets": "4682"
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\eb30f6a9e0e738fac8363305e5952bb7\\transformed\\jetified-play-services-base-17.0.0\\res\\values-gu\\values.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\88c960c6c42df01e6ce74a4ca9425c68\\transformed\\preference-1.2.0\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,177,263,344,486,655,739",
+                        "endColumns": "71,85,80,141,168,83,81",
+                        "endOffsets": "172,258,339,481,650,734,816"
+                    },
+                    "to": {
+                        "startLines": "55,57,108,110,113,114,115",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "6006,6141,10244,10403,10727,10896,10980",
+                        "endColumns": "71,85,80,141,168,83,81",
+                        "endOffsets": "6073,6222,10320,10540,10891,10975,11057"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\9d005ee60de397757a315a4a72281d90\\transformed\\jetified-play-services-base-17.0.0\\res\\values-gu\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -108,7 +91,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\c637c42b8a74662fbfaf0274292fe3c9\\transformed\\core-1.9.0\\res\\values-gu\\values-gu.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\6b6c836d928474b18c07036d405ab825\\transformed\\core-1.9.0\\res\\values-gu\\values-gu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -122,6 +105,23 @@
                         "startOffsets": "10626",
                         "endColumns": "100",
                         "endOffsets": "10722"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\828d251fba8e326f615f569dc120c9ec\\transformed\\appcompat-1.5.1\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,212,316,423,510,610,730,808,885,976,1069,1164,1258,1358,1451,1546,1640,1731,1822,1902,2008,2109,2206,2315,2415,2525,2685,2788",
+                        "endColumns": "106,103,106,86,99,119,77,76,90,92,94,93,99,92,94,93,90,90,79,105,100,96,108,99,109,159,102,80",
+                        "endOffsets": "207,311,418,505,605,725,803,880,971,1064,1159,1253,1353,1446,1541,1635,1726,1817,1897,2003,2104,2201,2310,2410,2520,2680,2783,2864"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,111",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "273,380,484,591,678,778,898,976,1053,1144,1237,1332,1426,1526,1619,1714,1808,1899,1990,2070,2176,2277,2374,2483,2583,2693,2853,10545",
+                        "endColumns": "106,103,106,86,99,119,77,76,90,92,94,93,99,92,94,93,90,90,79,105,100,96,108,99,109,159,102,80",
+                        "endOffsets": "375,479,586,673,773,893,971,1048,1139,1232,1327,1421,1521,1614,1709,1803,1894,1985,2065,2171,2272,2369,2478,2578,2688,2848,2951,10621"
                     }
                 }
             ]

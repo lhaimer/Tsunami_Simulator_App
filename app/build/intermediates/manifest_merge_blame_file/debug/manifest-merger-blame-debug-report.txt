@@ -18,22 +18,22 @@
 12-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:7:22-76
 13
 14    <permission
-14-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\c637c42b8a74662fbfaf0274292fe3c9\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+14-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
 15        android:name="com.climateteam9.tsunamisimulator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-15-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\c637c42b8a74662fbfaf0274292fe3c9\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+15-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
 16        android:protectionLevel="signature" />
-16-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\c637c42b8a74662fbfaf0274292fe3c9\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+16-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 17
 18    <uses-permission android:name="com.climateteam9.tsunamisimulator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-18-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\c637c42b8a74662fbfaf0274292fe3c9\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-18-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\c637c42b8a74662fbfaf0274292fe3c9\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+18-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 19
 20    <application
 20-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:9:5-29:19
 21        android:allowBackup="true"
 21-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:10:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\c637c42b8a74662fbfaf0274292fe3c9\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+22-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 23        android:dataExtractionRules="@xml/data_extraction_rules"
 23-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:11:9-65
 24        android:debuggable="true"
@@ -68,54 +68,54 @@
 39            </intent-filter>
 40        </activity>
 41        <activity
-41-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\eb30f6a9e0e738fac8363305e5952bb7\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+41-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9d005ee60de397757a315a4a72281d90\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
 42            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-42-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\eb30f6a9e0e738fac8363305e5952bb7\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+42-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9d005ee60de397757a315a4a72281d90\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
 43            android:exported="false"
-43-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\eb30f6a9e0e738fac8363305e5952bb7\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+43-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9d005ee60de397757a315a4a72281d90\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
 44            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-44-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\eb30f6a9e0e738fac8363305e5952bb7\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+44-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9d005ee60de397757a315a4a72281d90\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
 45
 46        <meta-data
-46-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\d544ede311a75e9fcd0b71f3f53e08ca\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+46-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7d779480eadbe81de0b15fdb57093e6b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
 47            android:name="com.google.android.gms.version"
-47-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\d544ede311a75e9fcd0b71f3f53e08ca\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+47-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7d779480eadbe81de0b15fdb57093e6b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
 48            android:value="@integer/google_play_services_version" />
-48-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\d544ede311a75e9fcd0b71f3f53e08ca\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+48-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7d779480eadbe81de0b15fdb57093e6b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
 49
 50        <uses-library
-50-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7b5c2da293e501de26b9181bcef0e442\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+50-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
 51            android:name="androidx.window.extensions"
-51-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7b5c2da293e501de26b9181bcef0e442\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+51-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
 52            android:required="false" />
-52-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7b5c2da293e501de26b9181bcef0e442\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+52-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
 53        <uses-library
-53-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7b5c2da293e501de26b9181bcef0e442\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+53-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
 54            android:name="androidx.window.sidecar"
-54-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7b5c2da293e501de26b9181bcef0e442\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+54-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
 55            android:required="false" />
-55-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7b5c2da293e501de26b9181bcef0e442\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+55-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
 56
 57        <provider
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\f8ffe0e8624ba6e1efd9acb440f8a295\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
 58            android:name="androidx.startup.InitializationProvider"
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\f8ffe0e8624ba6e1efd9acb440f8a295\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
 59            android:authorities="com.climateteam9.tsunamisimulator.androidx-startup"
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\f8ffe0e8624ba6e1efd9acb440f8a295\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
 60            android:exported="false" >
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\f8ffe0e8624ba6e1efd9acb440f8a295\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
 61            <meta-data
-61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\f8ffe0e8624ba6e1efd9acb440f8a295\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
 62                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\f8ffe0e8624ba6e1efd9acb440f8a295\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
 63                android:value="androidx.startup" />
-63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\f8ffe0e8624ba6e1efd9acb440f8a295\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
 64            <meta-data
-64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\89e6e70a031863fa741bdfe12592099a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9639442cc6829891c01a1095389241d0\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
 65                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\89e6e70a031863fa741bdfe12592099a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9639442cc6829891c01a1095389241d0\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
 66                android:value="androidx.startup" />
-66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\89e6e70a031863fa741bdfe12592099a\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9639442cc6829891c01a1095389241d0\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
 67        </provider>
 68    </application>
 69

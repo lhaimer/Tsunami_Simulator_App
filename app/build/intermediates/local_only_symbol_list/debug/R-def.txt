@@ -23,16 +23,13 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id action_chatList_to_settings
-id action_fragmentAccSettings_to_fra
 id action_settings
 id action_settings_to_accSettings
-id fra
 id fragmentAccSettings
 id fragmentMap
 id fragmentSettings
 id nav_graph
 id nav_host_frag
-id simSettingsFragment
 id textView2
 layout activity_main
 layout fragment_account_settings
