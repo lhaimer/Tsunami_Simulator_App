@@ -1,4 +1,4 @@
-package com.climateteam9.tsunamisimulator.Utils
+package com.climateteam9.tsunamisimulator.utils
 
 import android.util.Log
 

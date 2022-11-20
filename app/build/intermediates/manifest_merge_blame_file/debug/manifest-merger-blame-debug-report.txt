@@ -6,117 +6,133 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml
+8-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml
+9-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
-11-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:6:5-81
-11-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:6:22-78
+11-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:6:5-81
+11-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:6:22-78
 12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-12-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:7:5-79
-12-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:7:22-76
-13
-14    <permission
-14-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-15        android:name="com.climateteam9.tsunamisimulator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-15-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
-16        android:protectionLevel="signature" />
-16-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
-17
-18    <uses-permission android:name="com.climateteam9.tsunamisimulator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-18-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-18-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+12-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:7:5-79
+12-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:8:5-67
+13-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:9:5-79
+14-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:9:22-76
+15
+16    <permission
+16-->[androidx.core:core:1.9.0] C:\Users\BOB\.gradle\caches\transforms-3\aef876ceba7d9adc5e6f5ddc988a4bf9\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+17        android:name="com.climateteam9.tsunamisimulator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.9.0] C:\Users\BOB\.gradle\caches\transforms-3\aef876ceba7d9adc5e6f5ddc988a4bf9\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.9.0] C:\Users\BOB\.gradle\caches\transforms-3\aef876ceba7d9adc5e6f5ddc988a4bf9\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
 19
-20    <application
-20-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:9:5-29:19
-21        android:allowBackup="true"
-21-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:10:9-35
-22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.9.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\6b6c836d928474b18c07036d405ab825\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
-23        android:dataExtractionRules="@xml/data_extraction_rules"
-23-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:11:9-65
-24        android:debuggable="true"
-25        android:fullBackupContent="@xml/backup_rules"
-25-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:12:9-54
-26        android:icon="@mipmap/ic_launcher"
-26-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:13:9-43
-27        android:label="@string/app_name"
-27-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:14:9-41
-28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:15:9-54
-29        android:supportsRtl="true"
-29-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:16:9-35
-30        android:testOnly="true"
-31        android:theme="@style/Theme.Location" >
-31-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:17:9-46
-32        <activity
-32-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:19:9-27:20
-33            android:name="com.climateteam9.tsunamisimulator.MainActivity"
-33-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:20:13-74
-34            android:exported="true" >
-34-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:21:13-36
-35            <intent-filter>
-35-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:22:13-26:29
-36                <action android:name="android.intent.action.MAIN" />
-36-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:23:17-69
-36-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:23:25-66
-37
-38                <category android:name="android.intent.category.LAUNCHER" />
-38-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:25:17-77
-38-->C:\Users\user\Documents\5afaya_rsc\TSApp\Tsunami Simulator App\app\src\main\AndroidManifest.xml:25:27-74
-39            </intent-filter>
-40        </activity>
-41        <activity
-41-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9d005ee60de397757a315a4a72281d90\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
-42            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-42-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9d005ee60de397757a315a4a72281d90\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
-43            android:exported="false"
-43-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9d005ee60de397757a315a4a72281d90\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
-44            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-44-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9d005ee60de397757a315a4a72281d90\transformed\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
-45
-46        <meta-data
-46-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7d779480eadbe81de0b15fdb57093e6b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
-47            android:name="com.google.android.gms.version"
-47-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7d779480eadbe81de0b15fdb57093e6b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
-48            android:value="@integer/google_play_services_version" />
-48-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\7d779480eadbe81de0b15fdb57093e6b\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
-49
-50        <uses-library
-50-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
-51            android:name="androidx.window.extensions"
-51-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
-52            android:required="false" />
-52-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
-53        <uses-library
-53-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
-54            android:name="androidx.window.sidecar"
-54-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
-55            android:required="false" />
-55-->[androidx.window:window:1.0.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\2aa6822b0ae602e4afd57ab5688d23a7\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+20    <uses-permission android:name="com.climateteam9.tsunamisimulator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.9.0] C:\Users\BOB\.gradle\caches\transforms-3\aef876ceba7d9adc5e6f5ddc988a4bf9\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.9.0] C:\Users\BOB\.gradle\caches\transforms-3\aef876ceba7d9adc5e6f5ddc988a4bf9\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:11:5-36:19
+23        android:allowBackup="true"
+23-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:12:9-35
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.9.0] C:\Users\BOB\.gradle\caches\transforms-3\aef876ceba7d9adc5e6f5ddc988a4bf9\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+25        android:dataExtractionRules="@xml/data_extraction_rules"
+25-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:13:9-65
+26        android:debuggable="true"
+27        android:fullBackupContent="@xml/backup_rules"
+27-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:14:9-54
+28        android:icon="@mipmap/ic_launcher"
+28-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:15:9-43
+29        android:label="@string/app_name"
+29-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:16:9-41
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:17:9-54
+31        android:supportsRtl="true"
+31-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:18:9-35
+32        android:testOnly="true"
+33        android:theme="@style/Theme.Location" >
+33-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:19:9-46
+34        <activity
+34-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:22:9-32:20
+35            android:name="com.climateteam9.tsunamisimulator.DrawerActivity"
+35-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:23:13-43
+36            android:exported="true"
+36-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:24:13-36
+37            android:label="@string/title_activity_drawer"
+37-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:25:13-58
+38            android:theme="@style/Theme.Location.NoActionBar" >
+38-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:26:13-62
+39            <intent-filter>
+39-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:27:13-31:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:28:17-69
+40-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:28:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:30:17-77
+42-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:30:27-74
+43            </intent-filter>
+44        </activity>
+45        <activity
+45-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:33:9-35:48
+46            android:name="com.climateteam9.tsunamisimulator.MainActivity"
+46-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:34:13-41
+47            android:exported="true" />
+47-->E:\Android-Dev\Tsunami_Simulator_App\app\src\main\AndroidManifest.xml:35:13-36
+48        <activity
+48-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\BOB\.gradle\caches\transforms-3\916e6892d21429ca92398bfb684170ab\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+49            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+49-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\BOB\.gradle\caches\transforms-3\916e6892d21429ca92398bfb684170ab\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+50            android:exported="false"
+50-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\BOB\.gradle\caches\transforms-3\916e6892d21429ca92398bfb684170ab\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+51            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+51-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\BOB\.gradle\caches\transforms-3\916e6892d21429ca92398bfb684170ab\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+52
+53        <meta-data
+53-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\BOB\.gradle\caches\transforms-3\295e1150696398af6b0614fcd3246991\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+54            android:name="com.google.android.gms.version"
+54-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\BOB\.gradle\caches\transforms-3\295e1150696398af6b0614fcd3246991\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+55            android:value="@integer/google_play_services_version" />
+55-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\BOB\.gradle\caches\transforms-3\295e1150696398af6b0614fcd3246991\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
 56
-57        <provider
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-58            android:name="androidx.startup.InitializationProvider"
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
-59            android:authorities="com.climateteam9.tsunamisimulator.androidx-startup"
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
-60            android:exported="false" >
-60-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
-61            <meta-data
-61-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-62                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
-63                android:value="androidx.startup" />
-63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\8fc643584033b71a8d0de6d4c8ff00df\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
-64            <meta-data
-64-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9639442cc6829891c01a1095389241d0\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-65                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-65-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9639442cc6829891c01a1095389241d0\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-66                android:value="androidx.startup" />
-66-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\user\Documents\Google~- android-development-kotlin-from-java\03\demos\demos\Javatokotlindemo\caches\transforms-3\9639442cc6829891c01a1095389241d0\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-67        </provider>
-68    </application>
-69
-70</manifest>
+57        <uses-library
+57-->[androidx.window:window:1.0.0] C:\Users\BOB\.gradle\caches\transforms-3\da609c3ea8066f128acd12c83ab8f428\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+58            android:name="androidx.window.extensions"
+58-->[androidx.window:window:1.0.0] C:\Users\BOB\.gradle\caches\transforms-3\da609c3ea8066f128acd12c83ab8f428\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+59            android:required="false" />
+59-->[androidx.window:window:1.0.0] C:\Users\BOB\.gradle\caches\transforms-3\da609c3ea8066f128acd12c83ab8f428\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+60        <uses-library
+60-->[androidx.window:window:1.0.0] C:\Users\BOB\.gradle\caches\transforms-3\da609c3ea8066f128acd12c83ab8f428\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+61            android:name="androidx.window.sidecar"
+61-->[androidx.window:window:1.0.0] C:\Users\BOB\.gradle\caches\transforms-3\da609c3ea8066f128acd12c83ab8f428\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+62            android:required="false" />
+62-->[androidx.window:window:1.0.0] C:\Users\BOB\.gradle\caches\transforms-3\da609c3ea8066f128acd12c83ab8f428\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+63
+64        <provider
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\BOB\.gradle\caches\transforms-3\ac3688fadc2b1cce961fd56d82fb8799\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+65            android:name="androidx.startup.InitializationProvider"
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\BOB\.gradle\caches\transforms-3\ac3688fadc2b1cce961fd56d82fb8799\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+66            android:authorities="com.climateteam9.tsunamisimulator.androidx-startup"
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\BOB\.gradle\caches\transforms-3\ac3688fadc2b1cce961fd56d82fb8799\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+67            android:exported="false" >
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\BOB\.gradle\caches\transforms-3\ac3688fadc2b1cce961fd56d82fb8799\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+68            <meta-data
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\BOB\.gradle\caches\transforms-3\ac3688fadc2b1cce961fd56d82fb8799\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+69                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+69-->[androidx.emoji2:emoji2:1.2.0] C:\Users\BOB\.gradle\caches\transforms-3\ac3688fadc2b1cce961fd56d82fb8799\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+70                android:value="androidx.startup" />
+70-->[androidx.emoji2:emoji2:1.2.0] C:\Users\BOB\.gradle\caches\transforms-3\ac3688fadc2b1cce961fd56d82fb8799\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+71            <meta-data
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BOB\.gradle\caches\transforms-3\f7a6a11f5cc4669822ad4d2e8ce0aea0\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+72                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+72-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BOB\.gradle\caches\transforms-3\f7a6a11f5cc4669822ad4d2e8ce0aea0\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+73                android:value="androidx.startup" />
+73-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\BOB\.gradle\caches\transforms-3\f7a6a11f5cc4669822ad4d2e8ce0aea0\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+74        </provider>
+75    </application>
+76
+77</manifest>

@@ -10,6 +10,8 @@
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <permission
         android:name="com.climateteam9.tsunamisimulator.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
@@ -30,14 +32,19 @@
         android:testOnly="true"
         android:theme="@style/Theme.Location" >
         <activity
-            android:name="com.climateteam9.tsunamisimulator.MainActivity"
-            android:exported="true" >
+            android:name="com.climateteam9.tsunamisimulator.DrawerActivity"
+            android:exported="true"
+            android:label="@string/title_activity_drawer"
+            android:theme="@style/Theme.Location.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.climateteam9.tsunamisimulator.MainActivity"
+            android:exported="true" />
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"

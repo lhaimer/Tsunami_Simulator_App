@@ -9,8 +9,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Looper
 import android.util.Log
-import android.widget.Button
-import android.widget.TextView
 import android.widget.Toast
 import androidx.core.app.ActivityCompat
 import androidx.navigation.NavController
@@ -19,7 +17,7 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.preference.PreferenceManager
-import com.climateteam9.tsunamisimulator.Utils.TsunamiScenarioStatus
+import com.climateteam9.tsunamisimulator.utils.TsunamiScenarioStatus
 import com.google.android.gms.location.*
 import java.util.*
 
@@ -31,25 +29,13 @@ class MainActivity : AppCompatActivity() {
     val PERMISSION_ID = 1010
     private lateinit var navController: NavController
     private lateinit var appBarConfiguration: AppBarConfiguration
-//    val getpos : Button = findViewById(R.id.getpos)
-  //  val textView : TextView = findViewById(R.id.textView)
+
 
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-/*        getpos.setOnClickListener {
-            Log.d("Debug:",CheckPermission().toString())
-            Log.d("Debug:",isLocationEnabled().toString())
-            RequestPermission()
-
-            getLastLocation()
-
-        }*/
-
-
 
         // Get NavHost and NavController
         val navHostFrag = supportFragmentManager.findFragmentById(R.id.nav_host_frag) as NavHostFragment
@@ -60,7 +46,37 @@ class MainActivity : AppCompatActivity() {
 
         // Link ActionBar with NavController
         setupActionBarWithNavController(navController, appBarConfiguration)
+        tsunamiSimulator()
+//       x
+/*       //val getResults : Button = findViewById(R.id.btnResutls)
+        val messageTV: TextView = findViewById(R.id.messageTV)
+        messageTV.text= tsunamiSimulator()
+/*
+       getResults.setOnClickListener {
+           //messageTV.text=
+           Log.e("Debug:", "xxxxx")
+       }*/
+/*            Log.d("Debug:",CheckPermission().toString())
+            Log.d("Debug:",isLocationEnabled().toString())
+            RequestPermission()
 
+            getLastLocation()
+
+        }*/
+       getResults.setOnClickListener {
+           //messageTV.text= tsunamiSimulator()
+           Log.e("Debug:", "xxxxx")
+       }*/
+/*            Log.d("Debug:",CheckPermission().toString())
+            Log.d("Debug:",isLocationEnabled().toString())
+            RequestPermission()
+
+            getLastLocation()
+
+        }*/
+
+
+        //-----------------
         //  val getSimulationResulat : Button = findViewById(R.id.startSimulation)
          //       val safetyTV : TextView = findViewById(R.id.safetyTV)
 
@@ -156,8 +172,10 @@ class MainActivity : AppCompatActivity() {
 
     private val locationCallback = object : LocationCallback(){
         override fun onLocationResult(locationResult: LocationResult) {
-            var lastLocation: Location = locationResult.lastLocation
-            Log.d("Debug:","your last last location: "+ lastLocation.longitude.toString())
+            var lastLocation: Location? = locationResult.lastLocation
+            if (lastLocation != null) {
+                Log.d("Debug:","your last last location: "+ lastLocation.longitude.toString())
+            }
             //val textView : TextView = findViewById(R.id.textView)
             //textView.text = "You Last Location is : Long: "+ lastLocation.longitude + " , Lat: " + lastLocation.latitude + "\n" + getCityName(lastLocation.latitude,lastLocation.longitude)
         }

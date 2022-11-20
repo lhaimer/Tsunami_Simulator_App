@@ -1,4 +1,4 @@
-package com.climateteam9.tsunamisimulator.Utils
+package com.climateteam9.tsunamisimulator.utils
 
 class Constants {
 companion object {
@@ -20,6 +20,9 @@ companion object {
      val EarthquakeDepthIndianOcean = 30000 //meters
     const val NotSafeMSG = "you are not safe"
     const val SafeMSG = "you have just  seconds to move"
+    const val URLBASE="https://earthquake.usgs.gov/"
+
+
 
 
 }

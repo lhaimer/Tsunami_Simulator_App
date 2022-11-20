@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/activity_drawer2.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/activity_drawer2.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/nav_header_drawer.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/nav_header_drawer.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/activity_drawer.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/activity_drawer.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/fragment_home.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/nav_header_drawer2.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/nav_header_drawer2.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/fragment_map.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/fragment_gallery.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/fragment_account_settings.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/fragment_account_settings.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/fragment_settings.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/fragment_simulator_settings.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/fragment_simulator_settings.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/content_drawer.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/content_drawer.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/fragment_slideshow.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/fragment_slideshow.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/activity_main.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/app_bar_drawer.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/app_bar_drawer.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/app_bar_drawer2.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/app_bar_drawer2.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-50:/layout/content_drawer2.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/content_drawer2.xml"
+    }
+]
