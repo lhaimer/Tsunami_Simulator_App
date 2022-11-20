@@ -50,13 +50,13 @@ drawable share_icon
 drawable side_nav_bar
 drawable stars
 drawable team_ic
-id ContryTV
 id SafetyLevelTV
 id action_chatList_to_settings
 id action_settings
 id action_settings_to_accSettings
 id app_bar_drawer
 id btnResutls
+id contryTV
 id drawer_layout
 id fab
 id fragmentAccSettings

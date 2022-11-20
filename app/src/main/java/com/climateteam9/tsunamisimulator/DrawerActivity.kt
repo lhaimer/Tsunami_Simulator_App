@@ -1,6 +1,7 @@
 package com.climateteam9.tsunamisimulator
 
 import android.content.Intent
+import android.content.pm.PackageManager
 import android.os.Bundle
 import android.util.Log
 import android.view.Menu
@@ -10,6 +11,9 @@ import androidx.drawerlayout.widget.DrawerLayout
 import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
+import com.climateteam9.tsunamisimulator.Permission.PERMISSION_ID
+import com.climateteam9.tsunamisimulator.utils.services.GetUserLocation
+//import com.climateteam9.tsunamisimulator.utils.services.GetUserLocation
 import com.climateteam9.tsunamisimulator.databinding.ActivityDrawerBinding
 import com.climateteam9.tsunamisimulator.utils.data.datastructure
 import com.climateteam9.tsunamisimulator.utils.services.ApiInterface
@@ -34,7 +38,6 @@ class DrawerActivity : AppCompatActivity() {
 
         setContentView(R.layout.fragment_home)
 
-
         binding.appBarDrawer.fab.setOnClickListener { view ->
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
                 .setAction("Action", null).show()
@@ -52,6 +55,9 @@ class DrawerActivity : AppCompatActivity() {
 
 
         val txt=findViewById<TextView>(R.id.title3TV)
+        val txt1=findViewById<TextView>(R.id.locationTV)
+        val txt2=findViewById<TextView>(R.id.contryTV)
+        val txt3=findViewById<TextView>(R.id.nearestCostTV)
         txt.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
             // start your next activity
@@ -60,9 +66,13 @@ class DrawerActivity : AppCompatActivity() {
 
 
         getdata()
+        GetUserLocation(this).getLastLocation(txt1,txt2,txt3)
+
 
 
     }
+
+
 
     override fun onCreateOptionsMenu(menu: Menu): Boolean {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -163,7 +173,19 @@ class DrawerActivity : AppCompatActivity() {
 
         return EQtimeInSystemZone2
 
+    }
 
+    override fun onRequestPermissionsResult(
+        requestCode: Int,
+        permissions: Array<out String>,
+        grantResults: IntArray
+    ) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults)
+        if(requestCode == PERMISSION_ID){
+            if(grantResults.isNotEmpty() && grantResults[0] == PackageManager.PERMISSION_GRANTED){
+                Log.d("Debug:","You have the Permission")
+            }
+        }
     }
 
     }

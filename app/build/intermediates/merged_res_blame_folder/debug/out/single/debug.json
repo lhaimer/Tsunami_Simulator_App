@@ -72,12 +72,12 @@
         "source": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-53:\\menu\\drawer.xml"
     },
     {
-        "merged": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-merged_res-51:\\layout_content_drawer2.xml.flat",
-        "source": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-53:\\layout\\content_drawer2.xml"
-    },
-    {
         "merged": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-merged_res-51:\\menu_chat_list_menu.xml.flat",
         "source": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-53:\\menu\\chat_list_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-merged_res-51:\\layout_content_drawer2.xml.flat",
+        "source": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-53:\\layout\\content_drawer2.xml"
     },
     {
         "merged": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-merged_res-51:\\layout_fragment_home.xml.flat",
@@ -182,6 +182,10 @@
     {
         "merged": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-merged_res-51:\\layout_app_bar_drawer2.xml.flat",
         "source": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-53:\\layout\\app_bar_drawer2.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-merged_res-51:/layout_fragment_home.xml.flat",
+        "source": "com.climateteam9.tsunamisimulator.app-main-53:/layout/fragment_home.xml"
     },
     {
         "merged": "C:\\Users\\BOB\\.gradle\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",

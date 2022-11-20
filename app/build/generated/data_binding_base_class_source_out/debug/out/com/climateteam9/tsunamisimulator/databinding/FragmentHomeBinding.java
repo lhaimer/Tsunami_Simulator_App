@@ -21,10 +21,10 @@ public final class FragmentHomeBinding implements ViewBinding {
   private final ConstraintLayout rootView;
 
   @NonNull
-  public final TextView ContryTV;
+  public final TextView SafetyLevelTV;
 
   @NonNull
-  public final TextView SafetyLevelTV;
+  public final TextView contryTV;
 
   @NonNull
   public final ImageView imageView3;
@@ -71,16 +71,16 @@ public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
   public final TextView userNameTV;
 
-  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull TextView ContryTV,
-      @NonNull TextView SafetyLevelTV, @NonNull ImageView imageView3, @NonNull ImageView imageView5,
+  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull TextView SafetyLevelTV,
+      @NonNull TextView contryTV, @NonNull ImageView imageView3, @NonNull ImageView imageView5,
       @NonNull ImageView imageView6, @NonNull ImageView imageView7, @NonNull TextView locationTV,
       @NonNull TextView nearestCostTV, @NonNull TextView quakeDistanceTV,
       @NonNull TextView quakeLocationTV, @NonNull TextView quakeTimeTV,
       @NonNull TextView seaLevelTV, @NonNull TextView title1TV, @NonNull TextView title2TV,
       @NonNull TextView title3TV, @NonNull TextView title3TV2, @NonNull TextView userNameTV) {
     this.rootView = rootView;
-    this.ContryTV = ContryTV;
     this.SafetyLevelTV = SafetyLevelTV;
+    this.contryTV = contryTV;
     this.imageView3 = imageView3;
     this.imageView5 = imageView5;
     this.imageView6 = imageView6;
@@ -125,15 +125,15 @@ public final class FragmentHomeBinding implements ViewBinding {
     // This is done to optimize the compiled bytecode for size and performance.
     int id;
     missingId: {
-      id = R.id.ContryTV;
-      TextView ContryTV = ViewBindings.findChildViewById(rootView, id);
-      if (ContryTV == null) {
-        break missingId;
-      }
-
       id = R.id.SafetyLevelTV;
       TextView SafetyLevelTV = ViewBindings.findChildViewById(rootView, id);
       if (SafetyLevelTV == null) {
+        break missingId;
+      }
+
+      id = R.id.contryTV;
+      TextView contryTV = ViewBindings.findChildViewById(rootView, id);
+      if (contryTV == null) {
         break missingId;
       }
 
@@ -227,7 +227,7 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, ContryTV, SafetyLevelTV,
+      return new FragmentHomeBinding((ConstraintLayout) rootView, SafetyLevelTV, contryTV,
           imageView3, imageView5, imageView6, imageView7, locationTV, nearestCostTV,
           quakeDistanceTV, quakeLocationTV, quakeTimeTV, seaLevelTV, title1TV, title2TV, title3TV,
           title3TV2, userNameTV);

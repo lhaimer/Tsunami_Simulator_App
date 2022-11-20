@@ -2834,7 +2834,6 @@ int id ALT 0x7f090000
 int id BOTTOM_END 0x7f090001
 int id BOTTOM_START 0x7f090002
 int id CTRL 0x7f090003
-int id ContryTV 0x7f090004
 int id FUNCTION 0x7f090005
 int id META 0x7f090006
 int id NO_DEBUG 0x7f090007
@@ -2969,6 +2968,7 @@ int id content 0x7f090087
 int id contentPanel 0x7f090088
 int id contiguous 0x7f090089
 int id continuousVelocity 0x7f09008a
+int id contryTV 0x7f09021c
 int id coordinator 0x7f09008b
 int id cos 0x7f09008c
 int id counterclockwise 0x7f09008d
