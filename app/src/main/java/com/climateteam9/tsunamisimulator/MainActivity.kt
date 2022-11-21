@@ -43,55 +43,12 @@ class MainActivity : AppCompatActivity() {
         // Link ActionBar with NavController
         setupActionBarWithNavController(navController, appBarConfiguration)
         tsunamiSimulator()
-//       x
-/*       //val getResults : Button = findViewById(R.id.btnResutls)
-        val messageTV: TextView = findViewById(R.id.messageTV)
-        messageTV.text= tsunamiSimulator()
-/*
-       getResults.setOnClickListener {
-           //messageTV.text=
-           Log.e("Debug:", "xxxxx")
-       }*/
-/*            Log.d("Debug:",CheckPermission().toString())
-            Log.d("Debug:",isLocationEnabled().toString())
-            RequestPermission()
-
-            getLastLocation()
-
-        }*/
-       getResults.setOnClickListener {
-           //messageTV.text= tsunamiSimulator()
-           Log.e("Debug:", "xxxxx")
-       }*/
-/*            Log.d("Debug:",CheckPermission().toString())
-            Log.d("Debug:",isLocationEnabled().toString())
-            RequestPermission()
-
-            getLastLocation()
-
-        }*/
-
-
-        //-----------------
-        //  val getSimulationResulat : Button = findViewById(R.id.startSimulation)
-        //       val safetyTV : TextView = findViewById(R.id.safetyTV)
-
-        //      getSimulationResulat.setOnClickListener {
-        //         safetyTV.text=tsunamiSimulator()
-
-        //    }
-
 
     }
-
-
 
     override fun onSupportNavigateUp(): Boolean {
         return navController.navigateUp(appBarConfiguration) || super.onSupportNavigateUp()
     }
-
-
-
 
     private fun tsunamiSimulator(): String {
 

@@ -61,5 +61,7 @@ dependencies {
     implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
     //kotlinx-datetime
     implementation("org.jetbrains.kotlinx:kotlinx-datetime:0.4.0")
+    //refresh layout
+    implementation("androidx.swiperefreshlayout:swiperefreshlayout:1.1.0")
 
 }

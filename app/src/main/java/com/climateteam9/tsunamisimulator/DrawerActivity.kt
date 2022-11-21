@@ -1,35 +1,44 @@
 package com.climateteam9.tsunamisimulator
 
+//import com.climateteam9.tsunamisimulator.utils.services.GetUserLocation
+import android.annotation.SuppressLint
 import android.content.Intent
 import android.content.pm.PackageManager
 import android.os.Bundle
+import android.os.Process
 import android.util.Log
 import android.view.Menu
+import android.widget.Button
+import android.widget.ImageView
 import android.widget.TextView
+import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.drawerlayout.widget.DrawerLayout
 import androidx.navigation.findNavController
 import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.navigateUp
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.climateteam9.tsunamisimulator.Permission.PERMISSION_ID
-import com.climateteam9.tsunamisimulator.utils.services.GetUserLocation
-//import com.climateteam9.tsunamisimulator.utils.services.GetUserLocation
 import com.climateteam9.tsunamisimulator.databinding.ActivityDrawerBinding
 import com.climateteam9.tsunamisimulator.utils.data.datastructure
 import com.climateteam9.tsunamisimulator.utils.services.ApiInterface
+import com.climateteam9.tsunamisimulator.utils.services.GetUserLocation
 import com.google.android.material.navigation.NavigationView
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.datetime.*
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
+import kotlin.system.exitProcess
 
 class DrawerActivity : AppCompatActivity() {
 
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityDrawerBinding
+    lateinit var swipeRefreshLayout: SwipeRefreshLayout
 
 
+    @SuppressLint("WrongViewCast")
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -37,6 +46,7 @@ class DrawerActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         setContentView(R.layout.fragment_home)
+        swipeRefreshLayout = findViewById(R.id.container)
 
         binding.appBarDrawer.fab.setOnClickListener { view ->
             Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
@@ -44,6 +54,11 @@ class DrawerActivity : AppCompatActivity() {
         }
         val drawerLayout: DrawerLayout = binding.drawerLayout
         val navView: NavigationView = binding.navView
+        val closebtn:ImageView = findViewById(R.id.closeBTN)
+        val txt=findViewById<TextView>(R.id.title3TV)
+        val txt1=findViewById<TextView>(R.id.locationTV)
+        val txt2=findViewById<TextView>(R.id.ContryTV)
+        val txt3=findViewById<TextView>(R.id.nearestCostTV)
         //val navController = findNavController(R.id.nav_host_fragment_content_drawer)
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
@@ -52,17 +67,26 @@ class DrawerActivity : AppCompatActivity() {
                 R.id.nav_home, R.id.nav_gallery, R.id.nav_slideshow
             ), drawerLayout
         )
+        val iv_click_me = findViewById<ImageView>(R.id.closeBTN)
+        // set on-click listener
+        iv_click_me.setOnClickListener {
+            // your code to perform when the user clicks on the ImageView
+            Toast.makeText(this, "You clicked on ImageView.", Toast.LENGTH_SHORT).show()
+        }
 
 
-        val txt=findViewById<TextView>(R.id.title3TV)
-        val txt1=findViewById<TextView>(R.id.locationTV)
-        val txt2=findViewById<TextView>(R.id.contryTV)
-        val txt3=findViewById<TextView>(R.id.nearestCostTV)
+
         txt.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
             // start your next activity
             startActivity(intent)}
-
+        // to refresh layout
+        swipeRefreshLayout.setOnRefreshListener{
+            getdata()
+            GetUserLocation(this).getLastLocation(txt1,txt2,txt3)
+            // on below line we are setting is refreshing to false.
+            swipeRefreshLayout.isRefreshing = false
+        }
 
 
         getdata()
@@ -100,7 +124,7 @@ class DrawerActivity : AppCompatActivity() {
 
         val service = ApiInterface.create()
 
-        val call: Call<datastructure> = service.fetchFact("2022-11-19","2022-11-30",48.866667,2.333333,10000,5,"time")
+        val call: Call<datastructure> = service.fetchFact("2022-11-20","2022-11-30",48.866667,2.333333,10000,5,"time")
         call.enqueue(object : Callback<datastructure> {
 
             override fun onResponse(call: Call<datastructure>, response: Response<datastructure>) {
@@ -186,6 +210,13 @@ class DrawerActivity : AppCompatActivity() {
                 Log.d("Debug:","You have the Permission")
             }
         }
+    }
+    fun quit() {
+        /*android:clickable="true"
+        android:onClick="quit"*/
+        val pid = Process.myPid()
+        Process.killProcess(pid)
+        exitProcess(0)
     }
 
     }

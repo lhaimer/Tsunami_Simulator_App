@@ -112,7 +112,6 @@ class GetUserLocation(contextIn: Context) {
         )
     }
 
-
     private val locationCallback = object : LocationCallback(){
         override fun onLocationResult(locationResult: LocationResult) {
             var lastLocation: Location? = locationResult.lastLocation
@@ -167,14 +166,14 @@ class GetUserLocation(contextIn: Context) {
         var countryName = ""
         var cityContry =""
         var geoCoder = Geocoder(context, Locale.getDefault())
-        var Adress = geoCoder.getFromLocation(lat,long,3)
+        var address = geoCoder.getFromLocation(lat,long,3)
 
-        if (Adress != null) {
-            cityName = Adress.get(0).locality
+        if (address != null) {
+            cityName = address[0].locality
 
 
         }
-        countryName = Adress?.get(0)?.countryName ?: "your location ..."
+        countryName = address?.get(0)?.countryName ?: "your location ..."
         Log.d("Debug:","Your City: " + cityName + " ; your Country " + countryName)
         cityContry = cityName+"/"+countryName
         val list = arrayListOf<String>()
