@@ -34,7 +34,7 @@ public class TsunamiRiskCalculatorConstructor {
         }
        return true;
     } 
-    //Speed in KM/Hr
+    //Speed in KM/Hr.
     public double SpeedCalculator(){
         double Speed = Math.sqrt(9.8*SeaDepth);
         return Speed;
