@@ -15,11 +15,16 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Olanrewaju Ajayi &lt;lurnray@yahoo.com&gt;" />
+        <option value="@lurnray" />
         <option value="Olanrewaju Ajayi" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HmVXBtq6FBVdtpL3DbTZZOGQTI" />
   <component name="ProjectViewState">
@@ -42,6 +47,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668890283261</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is a commit">
+      <created>1670081156501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670081156501</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
