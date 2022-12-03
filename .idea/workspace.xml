@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="232ef6e5-1841-4113-a1c7-e7844b05d82d" name="Changes" comment="" />
+    <list default="true" id="232ef6e5-1841-4113-a1c7-e7844b05d82d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Olanrewaju Ajayi" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
   <component name="ProjectId" id="2HmVXBtq6FBVdtpL3DbTZZOGQTI" />
   <component name="ProjectViewState">
@@ -32,5 +43,9 @@
       <updated>1668890283261</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is a commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is a commit" />
   </component>
 </project>
