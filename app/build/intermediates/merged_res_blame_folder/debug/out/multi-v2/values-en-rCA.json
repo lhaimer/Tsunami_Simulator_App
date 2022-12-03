@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-47:/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-3:/values-en-rCA/values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\c637c42b8a74662fbfaf0274292fe3c9\\transformed\\core-1.9.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\aef876ceba7d9adc5e6f5ddc988a4bf9\\transformed\\core-1.9.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\79af4ba845f7c1120a4e33c78b92f179\\transformed\\preference-1.2.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\13eb384384ad5983aed69f12bb668a72\\transformed\\preference-1.2.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8",
                         "startColumns": "4,4,4,4,4,4,4",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\d5d184b9eb6c2b29fdb89f2058ae7198\\transformed\\appcompat-1.5.1\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\6ce94873627963c04079dcb846974623\\transformed\\appcompat-1.5.1\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

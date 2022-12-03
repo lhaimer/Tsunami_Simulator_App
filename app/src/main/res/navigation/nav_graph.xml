@@ -3,13 +3,14 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/nav_graph"
+    android:label="Simulator  Settings"
     app:startDestination="@id/fragmentMap">
 
     <fragment
         android:id="@+id/fragmentMap"
         android:name="com.climateteam9.tsunamisimulator.MapFragment"
-        android:label="Maps"
-        tools:layout="@layout/fragment_map" >
+        android:label="Simulator Results"
+        tools:layout="@layout/fragment_map">
         <action
             android:id="@+id/action_chatList_to_settings"
             app:destination="@id/fragmentSettings" />
@@ -19,7 +20,7 @@
         android:id="@+id/fragmentSettings"
         android:name="com.climateteam9.tsunamisimulator.SettingsFragment"
         android:label="Settings"
-        tools:layout="@layout/fragment_settings" >
+        tools:layout="@layout/fragment_settings">
         <action
             android:id="@+id/action_settings_to_accSettings"
             app:destination="@id/fragmentAccSettings" />
@@ -28,7 +29,8 @@
     <fragment
         android:id="@+id/fragmentAccSettings"
         android:name="com.climateteam9.tsunamisimulator.AccountSettingsFragment"
-        android:label="Account"
+        android:label="About"
         tools:layout="@layout/fragment_account_settings" />
+
 
 </navigation>

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-47:/values-v16/values-v16.xml",
+            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-3:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\d5d184b9eb6c2b29fdb89f2058ae7198\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\6ce94873627963c04079dcb846974623\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\c637c42b8a74662fbfaf0274292fe3c9\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\aef876ceba7d9adc5e6f5ddc988a4bf9\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

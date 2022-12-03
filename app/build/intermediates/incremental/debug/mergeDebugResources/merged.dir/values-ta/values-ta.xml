@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2" xmlns:ns2="http://schemas.android.com/tools">
     <plurals name="mtrl_badge_content_description">
     <item quantity="one">%d புதிய அறிவிப்பு</item>
     <item quantity="other">%d புதிய அறிவிப்புகள்</item>
@@ -35,24 +35,24 @@
     <string name="character_counter_content_description">%2$d இல் %1$d எழுத்துகள் உள்ளிடப்பட்டுள்ளன</string>
     <string name="character_counter_overflowed_content_description">%2$d இல் %1$d எழுத்து வரம்பு மீறப்பட்டது</string>
     <string name="clear_text_end_icon_content_description">உரையை அழிக்கும்</string>
-    <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"இயக்கு"</string>
-    <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Google Play சேவைகளை இயக்கினால் மட்டுமே, <ns1:g id="APP_NAME">%1$s</ns1:g> செயல்படும்."</string>
-    <string msgid="3147157405986503375" name="common_google_play_services_enable_title">"Google Play சேவைகளை இயக்கவும்"</string>
-    <string msgid="9115728400623041681" name="common_google_play_services_install_button">"நிறுவு"</string>
-    <string msgid="8179894293032530091" name="common_google_play_services_install_text">"Google Play சேவைகள் இருந்தால் மட்டுமே, <ns1:g id="APP_NAME">%1$s</ns1:g> இயங்கும். அவை உங்கள் சாதனத்தில் இல்லை."</string>
-    <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play சேவைகளைப் பெறவும்"</string>
-    <string msgid="4293541511340436975" name="common_google_play_services_notification_channel_name">"கிடைக்கும் Google Play சேவைகள்"</string>
-    <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play சேவைகள் பிழை"</string>
-    <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"Google Play சேவைகளில் சிக்கல் ஏற்பட்டதால், <ns1:g id="APP_NAME">%1$s</ns1:g> பயன்பாட்டை அணுக முடியவில்லை. மீண்டும் முயலவும்."</string>
-    <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"Google Play சேவைகள் இருந்தால் மட்டுமே <ns1:g id="APP_NAME">%1$s</ns1:g> பயன்பாடு இயங்கும். ஆனால், உங்கள் சாதனத்தில் அவை ஆதரிக்கப்படவில்லை."</string>
-    <string msgid="8172070149091615356" name="common_google_play_services_update_button">"புதுப்பி"</string>
-    <string msgid="7773943415006962566" name="common_google_play_services_update_text">"Google Play சேவைகளை இயக்கினால் மட்டுமே, <ns1:g id="APP_NAME">%1$s</ns1:g> செயல்படும்."</string>
-    <string msgid="8706675115216073244" name="common_google_play_services_update_title">"Google Play சேவைகளைப் புதுப்பிக்கவும்"</string>
-    <string msgid="7894275749778928941" name="common_google_play_services_updating_text">"தற்போது புதுப்பிக்கப்படும், Google Play சேவைகள் இருந்தால் மட்டுமே, <ns1:g id="APP_NAME">%1$s</ns1:g> செயல்படும்."</string>
-    <string msgid="2804989272736383918" name="common_google_play_services_wear_update_text">"Google Play சேவைகளின் புதிய பதிப்பு தேவை. அது விரைவில் தானாகவே புதுப்பிக்கப்படும்."</string>
-    <string msgid="5201977337835724196" name="common_open_on_phone">"மொபைலில் திற"</string>
-    <string msgid="3441753203274453993" name="common_signin_button_text">"உள்நுழைக"</string>
-    <string msgid="669893613918351210" name="common_signin_button_text_long">"Google மூலம் உள்நுழைக"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">இயக்கு</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play சேவைகளை இயக்கவும்</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">நிறுவு</string>
+    <string name="common_google_play_services_install_text">Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s இயங்கும். அவை உங்கள் சாதனத்தில் இல்லை.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play சேவைகளைப் பெறவும்</string>
+    <string name="common_google_play_services_notification_channel_name">கிடைக்கும் Google Play சேவைகள்</string>
+    <string name="common_google_play_services_notification_ticker">Google Play சேவைகள் பிழை</string>
+    <string name="common_google_play_services_unknown_issue">Google Play சேவைகளில் சிக்கல் ஏற்பட்டதால், %1$s ஆப்ஸை அணுக முடியவில்லை. மீண்டும் முயலவும்.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play சேவைகள் இருந்தால் மட்டுமே %1$s ஆப்ஸ் இயங்கும். ஆனால், உங்கள் சாதனத்தில் அவை ஆதரிக்கப்படவில்லை.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">புதுப்பி</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play சேவைகளைப் புதுப்பிக்கவும்</string>
+    <string name="common_google_play_services_updating_text">தற்போது புதுப்பிக்கப்படும், Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="common_google_play_services_wear_update_text">Google Play சேவைகளின் புதிய பதிப்பு தேவை. அது விரைவில் தானாகவே புதுப்பிக்கப்படும்.</string>
+    <string name="common_open_on_phone">மொபைலில் திற</string>
+    <string name="common_signin_button_text">உள்நுழைக</string>
+    <string name="common_signin_button_text_long">Google மூலம் உள்நுழைக</string>
     <string msgid="6083905920877235314" name="copy">"நகலெடு"</string>
     <string name="error_icon_content_description">பிழை</string>
     <string msgid="2427401033573778270" name="expand_button_title">"மேம்பட்டவை"</string>
@@ -73,11 +73,12 @@
     <string name="material_timepicker_text_input_mode_description">உரை உள்ளீட்டிற்காக, கடிகாரப் பயன்முறைக்கு மாற்றும்.</string>
     <string name="mtrl_badge_numberless_content_description">புதிய அறிவிப்பு</string>
     <string name="mtrl_chip_close_icon_content_description">%1$sஐ அகற்று</string>
-    <string name="mtrl_exceed_max_badge_number_content_description">%1$d+ புதிய அறிவிப்புகள்</string>
+    <string name="mtrl_exceed_max_badge_number_content_description" ns2:ignore="PluralsCandidate">%1$d+ புதிய அறிவிப்புகள்</string>
     <string name="mtrl_picker_a11y_next_month">அடுத்த மாதத்தைக் காட்டு</string>
     <string name="mtrl_picker_a11y_prev_month">முந்தைய மாதத்தைக் காட்டு</string>
     <string name="mtrl_picker_announce_current_selection">தற்போதைய தேர்வு: %1$s</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_cancel">ரத்துசெய்</string>
+    <string name="mtrl_picker_confirm">சரி</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">தேதியைத் தேர்ந்தெடுக்கவும்</string>
     <string name="mtrl_picker_date_header_unselected">தேர்ந்தெடுக்கப்பட்ட தேதி</string>
@@ -104,6 +105,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">நாளைத் தேர்வுசெய்வதற்கு மாற்ற தட்டவும்</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">உரை உள்ளீட்டு முறைக்கு மாற்றும்</string>
     <string name="mtrl_picker_toggle_to_year_selection">ஆண்டைத் தேர்வுசெய்வதற்கு மாற்ற தட்டவும்</string>
+    <string name="mtrl_timepicker_cancel">ரத்துசெய்</string>
+    <string name="mtrl_timepicker_confirm">சரி</string>
     <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"மேலே செல்லும்"</string>
     <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"வழிசெலுத்தல் டிராயரைத் திறக்கும்"</string>
     <string msgid="6573031135582639649" name="not_set">"அமைக்கப்படவில்லை"</string>

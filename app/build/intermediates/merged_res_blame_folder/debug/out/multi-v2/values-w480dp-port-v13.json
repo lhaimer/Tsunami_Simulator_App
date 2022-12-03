@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-47:/values-w480dp-port-v13/values-w480dp-port-v13.xml",
+            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-3:/values-w480dp-port-v13/values-w480dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\77b8f77cc988f90b703fd7b8a95ceb7e\\transformed\\material-1.6.1\\res\\values-w480dp-port-v13\\values-w480dp-port-v13.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\df92f74595a6363fe829dd3815f5ca10\\transformed\\material-1.7.0\\res\\values-w480dp-port-v13\\values-w480dp-port-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",

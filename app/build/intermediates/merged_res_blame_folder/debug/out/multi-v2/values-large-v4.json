@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-47:/values-large-v4/values-large-v4.xml",
+            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-3:/values-large-v4/values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\77b8f77cc988f90b703fd7b8a95ceb7e\\transformed\\material-1.6.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\6ce94873627963c04079dcb846974623\\transformed\\appcompat-1.5.1\\res\\values-large-v4\\values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\df92f74595a6363fe829dd3815f5ca10\\transformed\\material-1.7.0\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,10",
                         "startColumns": "4,4,4,4",
@@ -20,16 +30,6 @@
                         "endLines": "11,12,18,24",
                         "endColumns": "121,133,10,10",
                         "endOffsets": "869,1003,1444,1887"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\d5d184b9eb6c2b29fdb89f2058ae7198\\transformed\\appcompat-1.5.1\\res\\values-large-v4\\values-large-v4.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,114,185,256,326,396,464,532,636",
-                        "endColumns": "58,70,70,69,69,67,67,103,115",
-                        "endOffsets": "109,180,251,321,391,459,527,631,747"
                     }
                 }
             ]

@@ -15,77 +15,88 @@
             <stringArg name="classpath">
               <args>
                 <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3cf6753aceb512d332dda2c70ffd880b/transformed/navigation-ui-ktx-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e99fcfc3153ba402acc14fbc387baef2/transformed/navigation-ui-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/65fcf17ffc27d465fcc3223af0d5257c/transformed/material-1.6.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3a9153c996794268aa36059d3aa6d62c/transformed/jetified-preference-ktx-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e7182f15488256d20cabd15d6f2d9abd/transformed/preference-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ed919929672dc0e8ecea9bfc7a0f0b69/transformed/appcompat-1.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b06f9fdac335547c7f190d3ca59f7c84/transformed/jetified-viewpager2-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ea08dd1c5ed92f12e9a4f57c4a7e0953/transformed/jetified-play-services-location-17.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/11b0d9b90faf99d76b72036d9f763464/transformed/jetified-play-services-base-17.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e9a40c3c91689137d64378c1f9448cbc/transformed/jetified-play-services-places-placereport-17.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/57ce5b851328c69a604759995e22383a/transformed/jetified-play-services-tasks-17.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b77033f9b9c7117fb276f307e4279cf0/transformed/jetified-play-services-basement-17.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/83fcd88bf3e8d99f5c5a17f125eda6f3/transformed/navigation-fragment-ktx-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ae27b67364326ee00128a93e31da2911/transformed/navigation-fragment-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/4051f36afa17834252b53c0c3c0dc0ff/transformed/jetified-fragment-ktx-1.5.4-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/a4d3c4f0c8bd3f84fee8b5f19599efce/transformed/fragment-1.5.4-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/c67b066de390b818831c74ee7c0924b2/transformed/navigation-runtime-ktx-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/78b1c2c9ac32bbef5f6889c1b2cbc69e/transformed/navigation-runtime-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/4920ded0679fc87a2390ed5578f1b0aa/transformed/jetified-activity-ktx-1.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f831f571e25dcdb99f0f5e36d687754c/transformed/jetified-activity-1.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/9d25c6b0aea6144061d9d63fb780c58c/transformed/navigation-common-ktx-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/723d5ef832b623403a4c6a9c02873b2a/transformed/navigation-common-2.5.3-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/7969f8781364041ef3912843fd9325bf/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/fc7a4fbfde6e30664455cbb7ea725e2d/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3f90120184f3731b1f334e805e6aec9e/transformed/jetified-lifecycle-runtime-ktx-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/618f45337b68e914467cf069cf08989f/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.1.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/31bc84e298399ec58038a39131dad800/transformed/jetified-kotlinx-coroutines-android-1.6.1.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/2518b3099d65258637ec8462e9288876/transformed/jetified-kotlin-stdlib-jdk8-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/0b47f16ae06d9add3d2e2a4b6b7ab0a2/transformed/jetified-junit-4.13.2.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/0dcef519f2825a16a170aa27bd4a1129/transformed/jetified-hamcrest-core-1.3.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3e190d89ada539c7c81e6c9283c5776c/transformed/jetified-core-ktx-1.9.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/9988242c7d13ec4b6e6432d67fcaa721/transformed/jetified-kotlin-stdlib-jdk7-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b1f42b616289d1cfbaa84072080d8b6c/transformed/jetified-savedstate-ktx-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3ad386408ba6107acc646c9e7f2e3c7c/transformed/jetified-savedstate-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/2e14388cb71a7a45a8f366a7aa559fd7/transformed/jetified-appcompat-resources-1.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/c0b2f637f52f6e77642b6d06db5af42e/transformed/drawerlayout-1.1.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/aedfd478ccede25bbe1bfbed6b8c972f/transformed/coordinatorlayout-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/6458a21fd6e5398d50e7fe97ecabbb14/transformed/dynamicanimation-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/9c9d886bd4f508a24bb4fa7a83be8ba8/transformed/recyclerview-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/0d4ece34c53a3c1e4c6fea8ef38c25c1/transformed/transition-1.4.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/5e27cd9c60d30e592d9b975a3a51be59/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/74153e57ec36c29060f3e77730036818/transformed/vectordrawable-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3b2e7c2a2e6f3be967aeadc41589712d/transformed/viewpager-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/381007183c666f4ab317de0e204889a0/transformed/slidingpanelayout-1.2.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/6ebc9a7502239606d8729fed832b84ab/transformed/customview-1.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/7f8e621ff77171bd60b26473ea3ca92a/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/25bb49306bb22eff3fc56f197516f4f7/transformed/loader-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/84eedf65068f5e0f6bb2156d73b53822/transformed/core-1.9.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/6131daef7003065b8b8f02c6b511978a/transformed/jetified-annotation-experimental-1.3.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/72d99b290db745ac79965a2ad094dcca/transformed/lifecycle-viewmodel-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/295afa12471999ecccd3ff7d289b8b6b/transformed/jetified-collection-ktx-1.1.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/a92550db7d296241b892ff62ca02f06b/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ffd9f61aeb5cfed41a46fbb7473f62b2/transformed/jetified-kotlin-stdlib-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/971ed040b1d7d7c2c52c23102a4915e2/transformed/jetified-kotlin-stdlib-common-1.7.10.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/96dcaa91b7f52b207ce5ffe1dbd94d18/transformed/jetified-annotations-13.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/843d2a36d9ced93abd9116c8a31c82cd/transformed/cursoradapter-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/776370e7653912b3b23f2faa89422c01/transformed/cardview-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/2b3b621aae70628777a19f0939755bd2/transformed/lifecycle-runtime-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/9670a95d47b8bb55db3b7b39d4a72de4/transformed/versionedparcelable-1.1.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/9b2d5d37991b43676a809b950eaf5a0f/transformed/lifecycle-livedata-2.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/027b04f773a5f8fe9a283d8987ed7a32/transformed/core-runtime-2.1.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/1bfc3ff5f59b3aa6e5ec41ab2199efb3/transformed/lifecycle-livedata-core-2.5.1-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.5.1/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.5.1.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/307ced8c3a29af5423fba7daf4dd40b5/transformed/interpolator-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/2006104b1b42c8007ac0361df129c426/transformed/documentfile-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/89fa818970dbeedaf5ebd9030ff1358c/transformed/localbroadcastmanager-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/7362587da149581836b0491ae693d484/transformed/print-1.0.0-api.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
-                <arg>$MODULE_DIR$/../../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/2b192a4d75a4d335bf93b1c69aac615e/transformed/constraintlayout-2.1.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b23766669938e0b126f2ccaea0ea86d8/transformed/jetified-viewbinding-7.3.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f9a99c19957dbb3dab6593c927065c1f/transformed/jetified-preference-ktx-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/0a1be32de15ab45ac5eecc103e02f905/transformed/preference-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/bf799be9ab981f1f306703a86518d28f/transformed/navigation-fragment-ktx-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/8891692042e5188e954cf1e6d50eff0b/transformed/navigation-fragment-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ed2e47cb8d7a05b6b09d337ba30e3e57/transformed/jetified-fragment-ktx-1.5.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e6c2daec3d188f9cba9a80af265fc2a2/transformed/navigation-ui-ktx-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ee992ac3d0a0cfea981d4e0fa157f6ab/transformed/navigation-runtime-ktx-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3dc29e24df5d4e70e7e98a791d9fcd8b/transformed/navigation-ui-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ef3c3e6339035d5fc8e1767efa33bbe7/transformed/navigation-runtime-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f130332bc1e81e3ede17700397837abb/transformed/jetified-activity-ktx-1.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/5d42445b0dc920b1e50ac5519b0fa64e/transformed/navigation-common-ktx-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3837eeb00d8ffb2e7c2be7663fe9680f/transformed/navigation-common-2.5.3-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/caeb4166a5d94ada26bf0b439915924e/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/86fa21b9d515b8e4388de830db46052d/transformed/material-1.7.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/12434c189f40d291ef6d61d2e93fba4c/transformed/appcompat-1.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/5b822ed72ebd6f4937e635a816b9c3d6/transformed/jetified-viewpager2-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/412846f48d5743104d650e3d740ef90f/transformed/jetified-play-services-location-21.0.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/6c8c720c74f65356eaff6e48300523d0/transformed/jetified-play-services-base-18.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/409ebc5ac382ba26b5597f773f61d45d/transformed/jetified-play-services-tasks-18.0.2-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/9e37cfc53ec14420b325787e9767d9be/transformed/jetified-play-services-basement-18.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/03ea981d79709f549bf96e628a7d30ae/transformed/fragment-1.5.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/c22d9117025502214ab19fd5ef0274bc/transformed/jetified-activity-1.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/69ae93c90271157d709120d23d09742b/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b8b1d3b588aef34bdc41ea1d06608134/transformed/jetified-lifecycle-livedata-ktx-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/fc476366da4d8165b97e7aa015a728c6/transformed/jetified-kotlinx-coroutines-core-jvm-1.6.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f3475814ed6046c924a5439540656779/transformed/jetified-lifecycle-runtime-ktx-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b49b85cdcd537609b798721d46f2d512/transformed/jetified-kotlinx-coroutines-android-1.6.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e87386df6dad3a25b50621b26243d5c8/transformed/jetified-kotlin-stdlib-jdk8-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/6e972c2f52ff4e1c1155f3d07f604b7c/transformed/jetified-junit-4.13.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/603cf49fc14b26f29037f9e69f5ce279/transformed/jetified-hamcrest-core-1.3.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/178470f9ebca74e11a010a3629552379/transformed/jetified-core-ktx-1.9.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/5962a8ec9c4153f356d1d3f17492ea15/transformed/jetified-appcompat-resources-1.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/4a703f62a708ab2cfb9e16aa17eae4d0/transformed/drawerlayout-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/cdde2294a1bdda2b2a637a298036bced/transformed/coordinatorlayout-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/fbc4697bd8a3adf5c6c0357178806267/transformed/dynamicanimation-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/12dc6392dac62c8830f234e445fa08bf/transformed/recyclerview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/8c033dd2f2d5db7844676ef5b201b0b2/transformed/transition-1.4.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f313748e068a798d381ad74db3a91b13/transformed/vectordrawable-animated-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b4e540b50d947ce6de20d6826b3e95d0/transformed/vectordrawable-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e4bab3b94e1e02380f79bee1038b1fc2/transformed/slidingpanelayout-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/4b36f8ff853a2970b5cbb59775c842a0/transformed/viewpager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/0d58bd82dd52f4beba88f86e9859cc1c/transformed/customview-1.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/d712ff254f27d5c28e089feb9d710e78/transformed/legacy-support-core-utils-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/c3b4d8cfd3a2ae22d28c8d68ba8bd5f1/transformed/loader-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/8833bcf48b731b3796290bc0163a7f2d/transformed/core-1.9.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/6908c1407b6a394f5be68bc32abbc2dc/transformed/cursoradapter-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/60db5ebb4a00586e6d299ea87eff09fc/transformed/jetified-savedstate-ktx-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/df977aa970ab4dd837598378098efede/transformed/jetified-savedstate-1.2.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/d0dcb0478ecdcc9fb6c98e9a922e7ad1/transformed/cardview-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/b48d65fa7a946716780c4211c61c8e25/transformed/lifecycle-runtime-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f364972734830559e6e0683c3ed1551e/transformed/lifecycle-viewmodel-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/562689694c28eca6e22174494b7c4c70/transformed/jetified-core-ktx-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/fa33f3bdbc0e946752ce27c0fb34b652/transformed/jetified-core-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/df578108b45a5878323663baceaf310c/transformed/lifecycle-livedata-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/2b4dd80d93fa57bd9602157656f57998/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/65d3a59f13c173edddbbd9b5ed7065fe/transformed/lifecycle-livedata-core-2.5.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.5.1/1fdb7349701e9cf2f0a69fc10642b6fef6bb3e12/lifecycle-common-2.5.1.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/75ee820febf52bcc7960cfc83585457f/transformed/versionedparcelable-1.1.1-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e2cdec12e434fcbcbde8da2331ba9371/transformed/jetified-collection-ktx-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/bb27b6f22b0143b90e7d3a14bda01be8/transformed/core-runtime-2.1.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/5d665c1a5ba3385fffa9ae01bfd3f147/transformed/monitor-1.4.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/af590fc0692c03b4ef38bcbfaf1546ca/transformed/interpolator-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/400d1ae512e58cb05930cc9ce27ea33b/transformed/documentfile-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/235f52b765da9a2257ea4881b36bed5e/transformed/localbroadcastmanager-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/effe4c940a90820aad8164f5e7559d39/transformed/print-1.0.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.annotation/annotation/1.3.0/21f49f5f9b85fc49de712539f79123119740595/annotation-1.3.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/bfca2cfbad7fd892f887e989b0a95b9d/transformed/jetified-kotlin-android-extensions-runtime-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e95b2dc491f005603d53aeb2715e1b3a/transformed/jetified-kotlin-stdlib-jdk7-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/066b1c28fe10c1352f1831f6d158f132/transformed/jetified-annotation-experimental-1.3.0-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/55be8da7779c7147d8df0bb05f2165b1/transformed/jetified-kotlinx-datetime-jvm-0.4.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/ba0f05649e64e6b2ec20fa01f7763d84/transformed/jetified-kotlin-stdlib-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/7bed4e5b91000fd0d8ac7eb79fbca527/transformed/jetified-kotlin-stdlib-common-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/c4999388c0593d0fdbd156ef995ce586/transformed/jetified-annotations-13.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/bd5d37d15a7ac97f75381be37bc1912e/transformed/constraintlayout-2.1.4-api.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/3c679c1303038f17496e12c6703b85dd/transformed/jetified-converter-gson-2.9.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/308dc4bdf4aebccf466bcb7dc0c1ff31/transformed/jetified-retrofit-2.9.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/72c21fee3b202caf90307266b3b1e57d/transformed/jetified-okhttp-3.14.9.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/8a2a301001f06aec55937712c127443b/transformed/jetified-okio-1.17.2.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/633f1c3a3c032fbc0c34e7fab1cb24af/transformed/jetified-gson-2.8.5.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/platforms/android-33/android.jar</arg>
                 <arg>$USER_HOME$/AppData/Local/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar</arg>
               </args>
@@ -104,8 +115,27 @@
                 <arg>$MODULE_DIR$/../../../app/build/intermediates/compile_app_classes_jar/debug/classes.jar</arg>
               </args>
             </arrayArg>
-            <arrayArg name="pluginClasspaths" />
-            <arrayArg name="pluginOptions" />
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions/1.7.10/6f72eaede229ab1f700f8a3583f7bef832b56f48/kotlin-android-extensions-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-compiler-embeddable/1.7.10/909803167c98606fcf22b4c848647c68e351d48d/kotlin-compiler-embeddable-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-reflect/1.7.10/165e600dfea6185cf5efa700756294cc4904dbeb/kotlin-reflect-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.7.10/d2abf9e77736acc4450dc4a3f707fa2c10f5099d/kotlin-stdlib-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.7.10/c99c87a6988d8fd8d5142e9ed5c9f34a7cf561ee/kotlin-script-runtime-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-daemon-embeddable/1.7.10/3a9f7aef7080d3ae63126cbba4f827ed664f32fa/kotlin-daemon-embeddable-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/org.jetbrains.intellij.deps/trove4j/1.0.20200330/3afb14d5f9ceb459d724e907a21145e8ff394f02/trove4j-1.0.20200330.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.6.0/330f2244e9030119ab3030fc3fededc86713d9cc/jna-5.6.0.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.10/bac80c520d0a9e3f3673bc2658c6ed02ef45a76a/kotlin-stdlib-common-1.7.10.jar</arg>
+                <arg>$MODULE_DIR$/../../../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions">
+              <args>
+                <arg>plugin:org.jetbrains.kotlin.android:experimental=false</arg>
+                <arg>plugin:org.jetbrains.kotlin.android:enabled=true</arg>
+                <arg>plugin:org.jetbrains.kotlin.android:defaultCacheImplementation=hashMap</arg>
+              </args>
+            </arrayArg>
           </arrayArguments>
         </compilerArguments>
       </configuration>
@@ -137,20 +167,28 @@
     <orderEntry type="jdk" jdkName="Android API 33, extension level 3 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Tsunami_Simulator.app.main" scope="TEST" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.7.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.7.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.10" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation:1.3.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-android-extensions-runtime:1.7.10" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-common:2.5.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-coroutines-core-jvm:1.6.1" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.collection:collection-ktx:1.1.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.retrofit2:retrofit:2.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okhttp3:okhttp:3.14.9" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.okio:okio:1.17.2" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.squareup.retrofit2:converter-gson:2.9.0" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.code.gson:gson:2.8.5" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlinx:kotlinx-datetime-jvm:0.4.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: junit:junit:4.13.2" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.databinding:viewbinding:7.3.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core-ktx:1.9.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.core:core:1.9.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.annotation:annotation-experimental:1.3.0@aar" level="project" />
@@ -171,10 +209,10 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.customview:customview:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment:1.5.4@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.material:material:1.6.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.material:material:1.7.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.cardview:cardview:1.0.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.constraintlayout:constraintlayout:2.1.4@aar" level="project" />
@@ -186,28 +224,31 @@
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.transition:transition:1.4.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-location:17.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-base:17.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-basement:17.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-tasks:17.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-places-placereport:17.0.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment-ktx:2.5.3@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment:2.5.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.preference:preference:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.fragment:fragment-ktx:1.5.4@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.activity:activity-ktx:1.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-runtime-ktx:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.savedstate:savedstate-ktx:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.2.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.5.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core-ktx:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:core:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.test:monitor:1.4.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-location:21.0.1@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-base:18.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-basement:18.1.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-tasks:18.0.2@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment-ktx:2.5.3@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-fragment:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common:2.5.3@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.2.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-runtime-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-common-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui-ktx:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.navigation:navigation-ui:2.5.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: androidx.preference:preference-ktx:1.2.0@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: androidx.preference:preference:1.2.0@aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="Tsunami_Simulator.app.main" />
 </module>

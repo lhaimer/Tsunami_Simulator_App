@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-47:/values-en-rIN/values-en-rIN.xml",
+            "outputFile": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-3:/values-en-rIN/values-en-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\79af4ba845f7c1120a4e33c78b92f179\\transformed\\preference-1.2.0\\res\\values-en-rIN\\values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "105,173,260,334,468,637,717",
-                        "endColumns": "67,86,73,133,168,79,75",
-                        "endOffsets": "168,255,329,463,632,712,788"
-                    },
-                    "to": {
-                        "startLines": "29,30,33,34,37,38,39",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "2762,2830,3140,3214,3532,3701,3781",
-                        "endColumns": "67,86,73,133,168,79,75",
-                        "endOffsets": "2825,2912,3209,3343,3696,3776,3852"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\d5d184b9eb6c2b29fdb89f2058ae7198\\transformed\\appcompat-1.5.1\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\6ce94873627963c04079dcb846974623\\transformed\\appcompat-1.5.1\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\c637c42b8a74662fbfaf0274292fe3c9\\transformed\\core-1.9.0\\res\\values-en-rIN\\values-en-rIN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "36",
-                        "startColumns": "4",
-                        "startOffsets": "3431",
-                        "endColumns": "100",
-                        "endOffsets": "3527"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\ade68a9901d52a820cfb122f62c31ff0\\transformed\\navigation-ui-2.5.3\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\a474eb0dacc840aa0c16219e818e0a51\\transformed\\navigation-ui-2.5.3\\res\\values-en-rIN\\values-en-rIN.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",
@@ -69,6 +35,40 @@
                         "startOffsets": "2917,3023",
                         "endColumns": "105,116",
                         "endOffsets": "3018,3135"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\13eb384384ad5983aed69f12bb668a72\\transformed\\preference-1.2.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "105,173,260,334,468,637,717",
+                        "endColumns": "67,86,73,133,168,79,75",
+                        "endOffsets": "168,255,329,463,632,712,788"
+                    },
+                    "to": {
+                        "startLines": "29,30,33,34,37,38,39",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "2762,2830,3140,3214,3532,3701,3781",
+                        "endColumns": "67,86,73,133,168,79,75",
+                        "endOffsets": "2825,2912,3209,3343,3696,3776,3852"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\caches\\transforms-3\\aef876ceba7d9adc5e6f5ddc988a4bf9\\transformed\\core-1.9.0\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "36",
+                        "startColumns": "4",
+                        "startOffsets": "3431",
+                        "endColumns": "100",
+                        "endOffsets": "3527"
                     }
                 }
             ]

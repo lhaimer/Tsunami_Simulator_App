@@ -1,16 +1,16 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f1f4b9afb3b35a33924e67d41d36c04c/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e506f35cdeef1885e9f8527c44d64e64/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f1f4b9afb3b35a33924e67d41d36c04c/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f1f4b9afb3b35a33924e67d41d36c04c/transformed/jetified-viewpager2-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/f1f4b9afb3b35a33924e67d41d36c04c/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e506f35cdeef1885e9f8527c44d64e64/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e506f35cdeef1885e9f8527c44d64e64/transformed/jetified-viewpager2-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/transforms-3/e506f35cdeef1885e9f8527c44d64e64/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
-      <root url="jar://$PROJECT_DIR$/../../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Google~- android-development-kotlin-from-java/03/demos/demos/Javatokotlindemo/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
