@@ -19,8 +19,7 @@ class MapFragment : Fragment() {
         //return inflater.inflate(R.layout.fragment_map, container, false)
         // Inflate the layout for this fragment
         val view = inflater!!.inflate(R.layout.fragment_map, container, false)
-
-                  //add your view before id else getting null pointer exception
+        //add your view before id else getting null pointer exception
 
         view.btnResutls.setOnClickListener {
             //= tsunamiSimulator()
