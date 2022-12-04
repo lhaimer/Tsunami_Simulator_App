@@ -10,7 +10,7 @@ import androidx.core.app.ActivityCompat
 object  Permission {
 
         val context : Context = TODO()
-        val PERMISSION_ID : Int = 0
+        val PERMISSION_ID : Int = 1010
 
 
     fun PermissionCheck( c:Context):Boolean{

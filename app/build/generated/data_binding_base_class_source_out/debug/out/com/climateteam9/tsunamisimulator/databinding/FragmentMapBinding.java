@@ -5,9 +5,11 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.cardview.widget.CardView;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
@@ -24,12 +26,20 @@ public final class FragmentMapBinding implements ViewBinding {
   public final Button btnResutls;
 
   @NonNull
+  public final CardView cardView;
+
+  @NonNull
+  public final ImageView imageView3;
+
+  @NonNull
   public final TextView messageTV;
 
   private FragmentMapBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnResutls,
-      @NonNull TextView messageTV) {
+      @NonNull CardView cardView, @NonNull ImageView imageView3, @NonNull TextView messageTV) {
     this.rootView = rootView;
     this.btnResutls = btnResutls;
+    this.cardView = cardView;
+    this.imageView3 = imageView3;
     this.messageTV = messageTV;
   }
 
@@ -66,13 +76,26 @@ public final class FragmentMapBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.cardView;
+      CardView cardView = ViewBindings.findChildViewById(rootView, id);
+      if (cardView == null) {
+        break missingId;
+      }
+
+      id = R.id.imageView3;
+      ImageView imageView3 = ViewBindings.findChildViewById(rootView, id);
+      if (imageView3 == null) {
+        break missingId;
+      }
+
       id = R.id.messageTV;
       TextView messageTV = ViewBindings.findChildViewById(rootView, id);
       if (messageTV == null) {
         break missingId;
       }
 
-      return new FragmentMapBinding((ConstraintLayout) rootView, btnResutls, messageTV);
+      return new FragmentMapBinding((ConstraintLayout) rootView, btnResutls, cardView, imageView3,
+          messageTV);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

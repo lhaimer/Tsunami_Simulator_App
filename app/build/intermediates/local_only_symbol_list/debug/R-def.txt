@@ -56,6 +56,7 @@ id action_settings
 id action_settings_to_accSettings
 id app_bar_drawer
 id btnResutls
+id cardView
 id contryTV
 id drawer_layout
 id fab
