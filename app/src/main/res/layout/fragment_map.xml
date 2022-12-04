@@ -30,8 +30,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.476"
         app:layout_constraintStart_toStartOf="@+id/imageView3"
-        app:layout_constraintTop_toBottomOf="@+id/imageView3">>
-
+        app:layout_constraintTop_toBottomOf="@+id/imageView3">
         <TextView
             android:id="@+id/messageTV"
             android:layout_width="match_parent"
