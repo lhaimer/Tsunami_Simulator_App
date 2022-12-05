@@ -201,7 +201,7 @@ class GetUserAndEarthquakeData(contextIn: Context) {
 
         val service = ApiInterface.create()
 
-        val call: Call<datastructure> = service.fetchFact(today.toString(),tomorrow.toString(),45.0,5.0,10000,5,"time")
+        val call: Call<datastructure> = service.fetchFact(today.toString(),tomorrow.toString(),lat,long,10000,5,"time")
         call.enqueue(object : Callback<datastructure> {
 
             override fun onResponse(call: Call<datastructure>, response: Response<datastructure>) {
@@ -280,4 +280,5 @@ class GetUserAndEarthquakeData(contextIn: Context) {
         return EQtimeInSystemZone2
 
     }
+
 }
