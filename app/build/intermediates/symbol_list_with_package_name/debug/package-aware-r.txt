@@ -1136,6 +1136,7 @@ attr suggestionRowLayout
 attr summary
 attr summaryOff
 attr summaryOn
+attr swipeRefreshLayoutProgressSpinnerBackgroundColor
 attr switchMinWidth
 attr switchPadding
 attr switchPreferenceCompatStyle
@@ -2960,6 +2961,7 @@ id clear_text
 id clip_horizontal
 id clip_vertical
 id clockwise
+id closeIV
 id closest
 id collapseActionView
 id compress
@@ -3070,8 +3072,6 @@ id ignoreRequest
 id image
 id imageView
 id imageView3
-id imageView6
-id imageView7
 id immediateStop
 id included
 id indeterminate
@@ -3290,6 +3290,7 @@ id stretch
 id submenuarrow
 id submit_area
 id supportScrollUp
+id swipeContainer
 id switchWidget
 id tabMode
 id tag_accessibility_actions
@@ -5090,6 +5091,7 @@ styleable State android_id constraints
 styleable StateListDrawable android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration
 styleable StateListDrawableItem android_drawable
 styleable StateSet defaultState
+styleable SwipeRefreshLayout swipeRefreshLayoutProgressSpinnerBackgroundColor
 styleable SwitchCompat android_textOn android_textOff android_thumb showText splitTrack switchMinWidth switchPadding switchTextAppearance thumbTextPadding thumbTint thumbTintMode track trackTint trackTintMode
 styleable SwitchMaterial useMaterialThemeColors
 styleable SwitchPreference android_summaryOn android_summaryOff android_disableDependentsState android_switchTextOn android_switchTextOff disableDependentsState summaryOff summaryOn switchTextOff switchTextOn

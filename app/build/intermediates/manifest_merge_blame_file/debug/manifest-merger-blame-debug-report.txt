@@ -64,8 +64,8 @@
 35-->C:\Users\user\Documents\5afaya_rsc\Tsunami_Simulator_App1\app\src\main\AndroidManifest.xml:23:13-43
 36            android:exported="true"
 36-->C:\Users\user\Documents\5afaya_rsc\Tsunami_Simulator_App1\app\src\main\AndroidManifest.xml:24:13-36
-37            android:label="@string/title_activity_drawer"
-37-->C:\Users\user\Documents\5afaya_rsc\Tsunami_Simulator_App1\app\src\main\AndroidManifest.xml:25:13-58
+37            android:label="Tsunami Simulator"
+37-->C:\Users\user\Documents\5afaya_rsc\Tsunami_Simulator_App1\app\src\main\AndroidManifest.xml:25:13-46
 38            android:theme="@style/Theme.Location.NoActionBar" >
 38-->C:\Users\user\Documents\5afaya_rsc\Tsunami_Simulator_App1\app\src\main\AndroidManifest.xml:26:13-62
 39            <intent-filter>
@@ -80,7 +80,7 @@
 43            </intent-filter>
 44        </activity>
 45        <activity
-45-->C:\Users\user\Documents\5afaya_rsc\Tsunami_Simulator_App1\app\src\main\AndroidManifest.xml:33:9-35:48
+45-->C:\Users\user\Documents\5afaya_rsc\Tsunami_Simulator_App1\app\src\main\AndroidManifest.xml:33:9-35:39
 46            android:name="com.climateteam9.tsunamisimulator.MainActivity"
 46-->C:\Users\user\Documents\5afaya_rsc\Tsunami_Simulator_App1\app\src\main\AndroidManifest.xml:34:13-41
 47            android:exported="true" />

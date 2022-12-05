@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
-import androidx.constraintlayout.widget.ConstraintLayout;
+import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 import androidx.viewbinding.ViewBinding;
 import androidx.viewbinding.ViewBindings;
 import com.climateteam9.tsunamisimulator.R;
@@ -18,22 +18,19 @@ import java.lang.String;
 
 public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
-  private final ConstraintLayout rootView;
+  private final SwipeRefreshLayout rootView;
 
   @NonNull
   public final TextView SafetyLevelTV;
+
+  @NonNull
+  public final ImageView closeIV;
 
   @NonNull
   public final TextView contryTV;
 
   @NonNull
   public final ImageView imageView3;
-
-  @NonNull
-  public final ImageView imageView6;
-
-  @NonNull
-  public final ImageView imageView7;
 
   @NonNull
   public final TextView locationTV;
@@ -51,6 +48,9 @@ public final class FragmentHomeBinding implements ViewBinding {
   public final TextView quakeTimeTV;
 
   @NonNull
+  public final SwipeRefreshLayout swipeContainer;
+
+  @NonNull
   public final TextView title1TV;
 
   @NonNull
@@ -59,23 +59,23 @@ public final class FragmentHomeBinding implements ViewBinding {
   @NonNull
   public final TextView title3TV;
 
-  private FragmentHomeBinding(@NonNull ConstraintLayout rootView, @NonNull TextView SafetyLevelTV,
-      @NonNull TextView contryTV, @NonNull ImageView imageView3, @NonNull ImageView imageView6,
-      @NonNull ImageView imageView7, @NonNull TextView locationTV, @NonNull TextView nearestCostTV,
+  private FragmentHomeBinding(@NonNull SwipeRefreshLayout rootView, @NonNull TextView SafetyLevelTV,
+      @NonNull ImageView closeIV, @NonNull TextView contryTV, @NonNull ImageView imageView3,
+      @NonNull TextView locationTV, @NonNull TextView nearestCostTV,
       @NonNull TextView quakeDistanceTV, @NonNull TextView quakeLocationTV,
-      @NonNull TextView quakeTimeTV, @NonNull TextView title1TV, @NonNull TextView title2TV,
-      @NonNull TextView title3TV) {
+      @NonNull TextView quakeTimeTV, @NonNull SwipeRefreshLayout swipeContainer,
+      @NonNull TextView title1TV, @NonNull TextView title2TV, @NonNull TextView title3TV) {
     this.rootView = rootView;
     this.SafetyLevelTV = SafetyLevelTV;
+    this.closeIV = closeIV;
     this.contryTV = contryTV;
     this.imageView3 = imageView3;
-    this.imageView6 = imageView6;
-    this.imageView7 = imageView7;
     this.locationTV = locationTV;
     this.nearestCostTV = nearestCostTV;
     this.quakeDistanceTV = quakeDistanceTV;
     this.quakeLocationTV = quakeLocationTV;
     this.quakeTimeTV = quakeTimeTV;
+    this.swipeContainer = swipeContainer;
     this.title1TV = title1TV;
     this.title2TV = title2TV;
     this.title3TV = title3TV;
@@ -83,7 +83,7 @@ public final class FragmentHomeBinding implements ViewBinding {
 
   @Override
   @NonNull
-  public ConstraintLayout getRoot() {
+  public SwipeRefreshLayout getRoot() {
     return rootView;
   }
 
@@ -114,6 +114,12 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
+      id = R.id.closeIV;
+      ImageView closeIV = ViewBindings.findChildViewById(rootView, id);
+      if (closeIV == null) {
+        break missingId;
+      }
+
       id = R.id.contryTV;
       TextView contryTV = ViewBindings.findChildViewById(rootView, id);
       if (contryTV == null) {
@@ -123,18 +129,6 @@ public final class FragmentHomeBinding implements ViewBinding {
       id = R.id.imageView3;
       ImageView imageView3 = ViewBindings.findChildViewById(rootView, id);
       if (imageView3 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageView6;
-      ImageView imageView6 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView6 == null) {
-        break missingId;
-      }
-
-      id = R.id.imageView7;
-      ImageView imageView7 = ViewBindings.findChildViewById(rootView, id);
-      if (imageView7 == null) {
         break missingId;
       }
 
@@ -168,6 +162,8 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
+      SwipeRefreshLayout swipeContainer = (SwipeRefreshLayout) rootView;
+
       id = R.id.title1TV;
       TextView title1TV = ViewBindings.findChildViewById(rootView, id);
       if (title1TV == null) {
@@ -186,9 +182,9 @@ public final class FragmentHomeBinding implements ViewBinding {
         break missingId;
       }
 
-      return new FragmentHomeBinding((ConstraintLayout) rootView, SafetyLevelTV, contryTV,
-          imageView3, imageView6, imageView7, locationTV, nearestCostTV, quakeDistanceTV,
-          quakeLocationTV, quakeTimeTV, title1TV, title2TV, title3TV);
+      return new FragmentHomeBinding((SwipeRefreshLayout) rootView, SafetyLevelTV, closeIV,
+          contryTV, imageView3, locationTV, nearestCostTV, quakeDistanceTV, quakeLocationTV,
+          quakeTimeTV, swipeContainer, title1TV, title2TV, title3TV);
     }
     String missingId = rootView.getResources().getResourceName(id);
     throw new NullPointerException("Missing required view with ID: ".concat(missingId));

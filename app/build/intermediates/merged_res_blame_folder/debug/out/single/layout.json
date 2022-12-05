@@ -1,58 +1,50 @@
 [
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\fragment_map.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_map.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/fragment_slideshow.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_slideshow.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\fragment_slideshow.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_slideshow.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/nav_header_drawer.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/nav_header_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\fragment_home.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_home.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/fragment_account_settings.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_account_settings.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\activity_main.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\activity_main.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/content_drawer.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/content_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\nav_header_drawer.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\nav_header_drawer.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/fragment_settings.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_settings.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\fragment_simulator_settings.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_simulator_settings.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\content_drawer.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\content_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\activity_drawer.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\activity_drawer.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\fragment_gallery.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_gallery.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/activity_main.xml"
     },
     {
         "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/fragment_home.xml",
         "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_home.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\fragment_settings.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_settings.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/app_bar_drawer.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/app_bar_drawer.xml"
     },
     {
         "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/fragment_map.xml",
         "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_map.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\fragment_account_settings.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\fragment_account_settings.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/activity_drawer.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/activity_drawer.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:\\layout\\app_bar_drawer.xml",
-        "source": "C:\\Users\\user\\Documents\\Google~- android-development-kotlin-from-java\\03\\demos\\demos\\Javatokotlindemo\\daemon\\7.4\\com.climateteam9.tsunamisimulator.app-main-7:\\layout\\app_bar_drawer.xml"
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/fragment_gallery.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_gallery.xml"
+    },
+    {
+        "merged": "com.climateteam9.tsunamisimulator.app-mergeDebugResources-4:/layout/fragment_simulator_settings.xml",
+        "source": "com.climateteam9.tsunamisimulator.app-main-7:/layout/fragment_simulator_settings.xml"
     }
 ]

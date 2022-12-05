@@ -57,6 +57,7 @@ id action_settings_to_accSettings
 id app_bar_drawer
 id btnResutls
 id cardView
+id closeIV
 id contryTV
 id drawer_layout
 id fab
@@ -65,8 +66,6 @@ id fragmentMap
 id fragmentSettings
 id imageView
 id imageView3
-id imageView6
-id imageView7
 id locationTV
 id messageTV
 id mobile_navigation
@@ -81,6 +80,7 @@ id nearestCostTV
 id quakeDistanceTV
 id quakeLocationTV
 id quakeTimeTV
+id swipeContainer
 id textView
 id textView2
 id text_gallery

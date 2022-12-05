@@ -34,7 +34,7 @@
         <activity
             android:name="com.climateteam9.tsunamisimulator.DrawerActivity"
             android:exported="true"
-            android:label="@string/title_activity_drawer"
+            android:label="Tsunami Simulator"
             android:theme="@style/Theme.Location.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
